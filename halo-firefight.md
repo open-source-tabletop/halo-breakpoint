@@ -29,12 +29,14 @@ The following special rules are used in Halo Firefight games:
 | Model Special Rules | Effect |
 | :------------------ | :----- |
 | Active Camo | When a model targets this model for an attack from more than 6 inches away, it must roll a d6 first. On a roll of a 6 it is able to make the attack. All attacks against this model suffer -1 to their Attack Rolls. If this model is hit by any attacks it loses the Active Camo rule for the remainder of the round. |
+| Transport (X) | This model may carry X models. A unit within 1 inch of this model, with X or fewer models in it, may perform an Embark Action (1 Command Point). Remove the unit from the board and place it into reserve as they are now being transported by this model. Any unit may be deployed from reserve using the Transport as its Entry Point - however they must be placed within 1 inch of the Transport model.
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
 | Vehicle | This model may not use climbable terrain. In addition this model may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
 | Barrage | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
+| Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
 | Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
 
 ### Weapons
@@ -42,17 +44,18 @@ The following special rules are used in Halo Firefight games:
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
 | BR55 Service Rifle   | 28" |  3  |  4  |  1  |                                  | 1      |
+| M247 Machine Gun     | 24" |  5  |  2  |  2  | Heavy, Deployable                | 6      |
 | M41 Rocket Launcher  | 24" |  4  |  6  |  3  | Heavy, Shred                     | 3      |
 | M6 Pistol            | 8"  |  2  |  4  |  1  | Dual Wield (1)                   | 0      |
 | M7 SMG               | 18" |  5  |  2  |  0  | Dual Wield (2)                   | 0      |
-| M79 MLRS             | 18" |  7  |  5  |  2  | Barrage, Heavy, Indirect         | 10     |
+| M79 MLRS             | 18" |  7  |  5  |  2  | Barrage, Indirect                | 10     |
 | M9 Grenade           | 8"  |  3  |  6  |  3  | One Use, Indirect                | 0      |
 | M90 Shotgun          | 12" |  4  |  5  |  1  | Rending (2)                      | 2      |
 | MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
 | SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
-| Vehicle Ram          | 1"  |  *  |  4  |  0  | Accurate, Rending (4), Shred     | 0      |
-| Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Heavy, Rapid Fire (3)            | 12     |
+| Vehicle Ram          | 1"  |  *  |  4  |  0  | Rending (2)                      | 0      |
+| Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Rapid Fire (3)                   | 12     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
 
