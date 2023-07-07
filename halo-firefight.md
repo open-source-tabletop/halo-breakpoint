@@ -18,10 +18,6 @@ This is an unofficial game but you can find out more about Halo at [Halo Waypoin
 
 Halo Firefight is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm, individually based miniatures.
 
-### Building an Army
-
-Building an army for Halo Firefight simply requires choosing the units you wish to use from any of the provided army lists, adding up the points to an agreed total for each model, their weapons, and equipment. Small games are typically played at 100 points, standard games at 200 points, and large games from 300. There are no restrictions to which models you may use and it is up to players to agree on what would make a satisfying battle.
-
 ### Special Rules
 
 The following special rules are used in Halo Firefight games:
@@ -54,7 +50,7 @@ The following special rules are used in Halo Firefight games:
 | MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
 | SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
-| Vehicle Ram          | 1"  |  *  |  4  |  0  | Rending (2)                      | 0      |
+| Vehicle Ram          | 1"  |  *  |  4  |  1  | Rending (2)                      | 0      |
 | Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Rapid Fire (3)                   | 12     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
@@ -75,8 +71,10 @@ The following special rules are used in Halo Firefight games:
 | - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1)                    | -      |
 | Plasma Rifle         | 20" |  5  |  2  |  1  |                                       | 0      |
 
-## Army Lists
+## Building an Army
 
-{% for item in site.halo-firefight %}
-[{{ item.title }}]({{ item.url }})
-{% endfor %}
+Building an army for Halo Firefight simply requires choosing the units you wish to use from any of the provided army lists, adding up the points to an agreed total for each model, their weapons, and equipment. You may choose any units from any army list to create your army, there are no restrictions to unit selection.
+
+Small games are typically played at 200 points, standard games at 300 points, and large games from 400. 
+
+### Army Lists
