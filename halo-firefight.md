@@ -78,3 +78,6 @@ Building an army for Halo Firefight simply requires choosing the units you wish 
 Small games are typically played at 200 points, standard games at 300 points, and large games from 400. 
 
 ### Army Lists
+
+- [Human Forces Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/human-forces.md)
+- [Alien Forces Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/alien-forces.md)
