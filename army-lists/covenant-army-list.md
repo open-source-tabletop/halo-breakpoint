@@ -24,6 +24,15 @@
 | Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 22     |
 | Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 18     |
 
+Plasma Rifle
+Needler
+Covenant Carbine
+Needle Rifle
+Beam Rifle
+Fuel Rod Gun
+Energy Sword
+Plasma Pistol
+
 ### Elite Infantry Specialists
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
