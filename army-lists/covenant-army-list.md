@@ -24,8 +24,13 @@
 | Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 22     |
 | Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 18     |
 
-Plasma Rifle
-Needler
+1 may be ultra or major
+3 minors
+
+Plasma Rifle mostly
+
+1 can choose + major and ultra
+Needler 
 Covenant Carbine
 Needle Rifle
 Beam Rifle
@@ -33,12 +38,36 @@ Fuel Rod Gun
 Energy Sword
 Plasma Pistol
 
-### Elite Infantry Specialists
+### Elite Stealth Infantry 
+
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Elite Stealth Infantry   |  4  |  6" |  3+ |  4+ |  4  |  2  | Active Camo       | 27     |
+
+2 models
+
+support special rule allows reserve til later
+ambush could be good deploy closer maybe another 5 points because they can be where you need
+
+Energy Sword
+Plasma Rifle
+
+### Elite Infantry Rangers
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Infantry Ranger    |  4  |  6" |  3+ |  4+ |  4  |  2  | Flying            | 25     |
-| Elite Stealth Infantry   |  4  |  6" |  4+ |  4+ |  3  |  2  | Active Camo       | 20     |
+
+3 models
+
+Plasma Rifle
+Needle Rifle
+Covenant Carbine
+
+1 of
+
+Beam Rifle
+Energy Sword
 
 ## Unggoy / Grunts
 
