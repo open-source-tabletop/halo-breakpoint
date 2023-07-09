@@ -9,8 +9,6 @@
 | Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Officer, Shields     | 44     |
 | Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo, Officer | 35     |
 
-#### Unit Configuration 
-
 A Spartan unit consists of 1 Spartan II, III, or IV.
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6).
