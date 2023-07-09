@@ -16,6 +16,17 @@
 | Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Shields | 35     |
 | Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields | 32     |
 
+4, 1 upgrade to officer 
+
+Weapons
+
+Covenant Carbine
+Plasma Rifle
+Needle Rifle
+Energy Sword
+needler
+Beam Rifle
+
 ### Elite Infantry
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
