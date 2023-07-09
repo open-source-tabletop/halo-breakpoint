@@ -12,7 +12,25 @@ This is an unofficial game but you can find out more about Halo at [Halo Waypoin
 
 ## Playing Halo Firefight
 
-Halo Firefight is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm, individually based miniatures.
+Halo: Firefight is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and some small vehicles.
+
+### Vehicles
+
+Models with the "Vehicle" special rule have the following changes to their rules:
+
+Vehicles ignore the climbable keyword for terrain. In addition these models may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
+
+### Transports
+
+Vehicle models with the Transport (X) special rule may carry X models that do not have the Vehicle or Large rule. If a unit wishes to be carried by the transport it must perform the Embark action as detailed below.
+
+Models embarked on a transport are treated as being in reserve and may be activated and deployed as normal, treating the transport as their entry point - however they may only be placed within 1 inch of the transport vehicle.
+
+If the vehicle is destroyed while carrying other models these should be deployed before the transport is destroyed.
+
+#### Action: Embark (1 Command Point)
+
+A unit may perform this action while within 1 inch of a transport vehicle with sufficient capacity for the whole unit. Remove the unit from the board and place it into reserve as they are now being transported by this model.
 
 ### Special Rules
 
@@ -20,60 +38,23 @@ The following special rules are used in Halo Firefight games:
 
 | Model Special Rules | Effect |
 | :------------------ | :----- |
-| Active Camo | When a model targets this model for an attack from more than 6 inches away, it must roll a d6 first. On a roll of a 6 it is able to make the attack. All attacks against this model suffer -1 to their Attack Rolls. If this model is hit by any attacks it loses the Active Camo rule for the remainder of the round. |
-| Transport (X) | This model may carry X models. A unit within 1 inch of this model, with X or fewer models in it, may perform an Embark Action (1 Command Point). Remove the unit from the board and place it into reserve as they are now being transported by this model. Any unit may be deployed from reserve using the Transport as its Entry Point - however they must be placed within 1 inch of the Transport model.
+| Active Camo | This model cannot be targeted by attacks from more than 12 inches away. If this model is hit by any attacks or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
+| Large | Attacks against this model from within 12 inches treat an obstructed line of sight as clear. |
+| Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. |
+| Panic | When this unit loses a model it must roll a d6, on a roll of 3+ the unit does nothing, otherwise the unit panics and loses a Command Point. This unit ignores this rule if it is within 6 inches of a friendly Elite or Brute unit. |
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
-| Vehicle | This model may not use climbable terrain. In addition this model may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
-| Barrage | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
+| Split Fire | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
 | Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
 | Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
 
-### Weapons
-
-| Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                    | Points |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
-| BR55 Service Rifle   | 28" |  3  |  4  |  1  |                                  | 1      |
-| M247 Machine Gun     | 24" |  5  |  2  |  2  | Heavy, Deployable                | 6      |
-| M41 Rocket Launcher  | 24" |  4  |  6  |  3  | Heavy, Shred                     | 3      |
-| M6 Pistol            | 8"  |  2  |  4  |  1  | Dual Wield (1)                   | 0      |
-| M7 SMG               | 18" |  5  |  2  |  0  | Dual Wield (2)                   | 0      |
-| M79 MLRS             | 18" |  7  |  5  |  2  | Barrage, Indirect                | 10     |
-| M9 Grenade           | 8"  |  3  |  6  |  3  | One Use, Indirect                | 0      |
-| M90 Shotgun          | 12" |  4  |  5  |  1  | Rending (2)                      | 2      |
-| MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
-| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
-| SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
-| Vehicle Ram          | 1"  |  *  |  4  |  1  | Rending (2)                      | 0      |
-| Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Rapid Fire (3)                   | 12     |
-
-* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
-
-| Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
-| Assault Cannon       | 18" |  3  |  6  |  2  | Heavy, Shred, Volley                  | 3      |
-| Beam Rifle           | 48" |  2  |  6  |  1  | Accurate, Rending (1)                 | 1      |
-| Covenant Carbine     | 16" |  4  |  3  |  0  |                                       | 0      |
-| Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Shred                        | 5      |
-| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley                  | 3      |
-| Hunter Combat Shield | 1"  |  4  |  4  |  1  | Assault                               | 0      |
-| Needle Rifle         | 32" |  3  |  3  |  0  | Rending (2)                           | 1      |
-| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 1      |
-| Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate                     | 0      |
-| Plasma Pistol        |     |     |     |     |                                       | 0      |
-| - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                        | -      |
-| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1)                    | -      |
-| Plasma Rifle         | 20" |  5  |  2  |  1  |                                       | 0      |
-
 ## Building an Army
 
-Building an army for Halo Firefight simply requires choosing the units you wish to use from any of the provided army lists, adding up the points to an agreed total for each model, their weapons, and equipment. You may choose any units from any army list to create your army, there are no restrictions to unit selection.
-
-Small games are typically played at 200 points, standard games at 300 points, and large games from 400. 
+@TODO Army Building Rules
 
 ### Army Lists
 
-- [Human Forces Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/human-forces.md)
-- [Alien Forces Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/alien-forces.md)
+- [UNSC Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/unsc-army-list.md)
+- [Covenant Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/covenant-army-list.md)
