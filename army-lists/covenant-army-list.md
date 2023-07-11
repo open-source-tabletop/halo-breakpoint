@@ -98,7 +98,7 @@ Energy Sword
 | Covenant Carbine     | 36" |  4  |  3  |  1  | Accurate                                  | 0      |
 | Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Destructive (3). Shred           | 5      |
 | Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley, Destructive (3)     | 3      |
-| Hunter Combat Shield | 1"  |  4  |  4  |  2  | Assault, Shred                            | 0      |
+| Hunter Combat Shield | 1"  |  4  |  6  |  3  | Assault, Shred                            | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
 | Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 1      |
 | Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3), Dual Wield (4) | 1      |
