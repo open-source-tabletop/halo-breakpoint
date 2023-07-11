@@ -72,13 +72,8 @@ A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 9      |
 
-A UNSC Marine Weapons Team Consists of 2 Marines.
-
-One Marine is equipped with an M6 Pistol, the other Marine must choose a weapon from the following:
-
-- M41 Rocket Launcher
-- SRS99 Sniper Rifle
-- M247 Machine Gun
+- **Configuration**: A UNSC Marine Weapons Team Consists of 2 Marines.
+- **Equipment**: One Marine is equipped with an M6 Pistol, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
 
 ### Warthog
 
@@ -86,9 +81,8 @@ One Marine is equipped with an M6 Pistol, the other Marine must choose a weapon 
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
 | Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle, Transport (2) | 32     |
 
-A Warthog unit consists of 1 Warthog.
-
-A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
+- **Configuration**: A Warthog unit consists of 1 Warthog.
+- **Equipment**: A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
 ## Upgrades
 
