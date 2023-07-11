@@ -37,21 +37,9 @@ A Spartan II or Spartan IV may choose one of the following items:
 | ODST Sergeant     |  4  |  6" |  3+ |  4+ |  4  |  1  | Officer           | 16     |
 | ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 15     |
 
-An ODST unit consists of 2 ODSTs and optional 1 ODST Sergeant.
-
-An ODST is equipped with an M7 SMG, M9 Grenades, and Melee Strike (6).
-
-Any ODST may replace its M7 SMG with any of the following:
-
-- M6 Pistol
-- M90 Shotgun
-- BR55 Service Rifle
-- MA5 Assault Rifle 
-
-One ODST may replace its M7 SMG with one of the following:
-
-- M41 Rocket Launcher
-- SRS99 Sniper Rifle
+- **Configuration**: An ODST unit consists of 2 ODSTs and may also include 1 ODST Sergeant.
+- **Equipment**: An ODST is equipped with an M7 SMG and M9 Grenades. Any ODST may replace its M7 SMG with any of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or MA5 Assault Rifle.  
+One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
 ### UNSC Marines
 
@@ -60,11 +48,8 @@ One ODST may replace its M7 SMG with one of the following:
 | Marine Sergeant   |  3  |  6" |  4+ |  5+ |  3  |  1  | Officer           | 10     |
 | Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 9      |
 
-A UNSC Marines Unit consists of 5 Marines. One Marine may be upgraded to a Marine Sergeant.
-
-A Marine is equipped with an MA5 Assault Rifle and a Marine Sergeant is equipped with an M6 Pistol.
-
-A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle.
+- **Configuration**: A UNSC Marines Unit consists of 5 Marines. One Marine may be upgraded to a Marine Sergeant.
+- **Equipment**: A Marine is equipped with an MA5 Assault Rifle and a Marine Sergeant is equipped with an M6 Pistol. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle.
 
 ### UNSC Marine Weapons Team
 
