@@ -37,7 +37,7 @@ A Spartan II or Spartan IV may choose one of the following items:
 | ODST Sergeant     |  4  |  6" |  3+ |  4+ |  4  |  1  | Officer           | 16     |
 | ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 15     |
 
-An ODST unit consists of 4 ODSTs and 1 ODST Sergeant.
+An ODST unit consists of 2 ODSTs and optional 1 ODST Sergeant.
 
 An ODST is equipped with an M7 SMG, M9 Grenades, and Melee Strike (6).
 
@@ -100,20 +100,20 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
 ## Weapons
 
-| Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                    | Points |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
-| BR55 Service Rifle   | 28" |  3  |  4  |  1  |                                  | 1      |
-| M247 Machine Gun     | 24" |  5  |  2  |  2  | Heavy, Deployable                | 6      |
-| M41 Rocket Launcher  | 24" |  4  |  6  |  3  | Heavy, Shred                     | 3      |
-| M6 Pistol            | 8"  |  2  |  4  |  1  | Dual Wield (1)                   | 0      |
-| M7 SMG               | 18" |  5  |  2  |  0  | Dual Wield (2)                   | 0      |
-| M79 MLRS             | 18" |  7  |  5  |  2  | Split Fire, Indirect             | 10     |
-| M9 Grenade           | 8"  |  3  |  6  |  3  | One Use, Indirect                | 0      |
-| M90 Shotgun          | 12" |  4  |  5  |  1  | Rending (2)                      | 2      |
-| MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
-| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
-| SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
-| Vehicle Ram          | 1"  |  *  |  4  |  1  | Rending (2)                      | 0      |
-| Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Rapid Fire (3)                   | 12     |
+| Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                               | Points |
+| :------------------- | :-: | :-: | :-: | :-: | :------------------------------------------ | :----- |
+| BR55 Service Rifle   | 28" |  4  |  4  |  1  | Shred                                       | 1      |
+| M247 Machine Gun     | 24" |  6  |  3  |  1  | Heavy, Deployable, Rending (1)              | 6      |
+| M41 Rocket Launcher  | 24" |  3  |  6  |  3  | Heavy, Indirect, Shred, Destructive (2)     | 4      |
+| M6 Pistol            | 8"  |  3  |  4  |  1  | Dual Wield (1)                              | 0      |
+| M7 SMG               | 18" |  8  |  3  |  0  | Rapid Fire (2), Rending (1), Dual Wield (2) | 0      |
+| M79 MLRS             | 18" |  6  |  5  |  2  | Split Fire, Indirect, Destructive (2)       | 10     |
+| M9 Grenade           | 8"  |  3  |  6  |  2  | Destructive (3), One Use, Indirect          | 0      |
+| M90 Shotgun          | 12" |  3  |  5  |  1  | Accurate, Volley, Shred                     | 2      |
+| MA5 Assault Rifle    | 24" |  4  |  3  |  0  | Rapid Fire (2)                              | 0      |
+| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                     | 0      |
+| SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)                       | 3      |
+| Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                        | 0      |
+| Vulcan "Chaingun"    | 24" |  7  |  4  |  2  | Rending (1), Shred                          | 12     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.

@@ -86,26 +86,27 @@ Energy Sword
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Grunt Infantry Major     |  3  |  5" |  5+ |  5+ |  3  |  1  | Officer, Panic    |        |
-| Grunt Infantry Minor     |  3  |  5" |  5+ |  5+ |  3  |  1  | Panic             |        |
+| Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    |        |
+| Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             |        |
 
 ## Weapons
 
-| Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
-| Assault Cannon       | 18" |  4  |  6  |  2  | Heavy, Shred, Volley, Rending (2)     | 3      |
-| Beam Rifle           | 48" |  3  |  6  |  1  | Accurate, Rending (1)                 | 1      |
-| Covenant Carbine     | 16" |  4  |  3  |  0  |                                       | 0      |
-| Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Destructive (3). Shred       | 5      |
-| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley, Destructive (3) | 3      |
-| Hunter Combat Shield | 1"  |  4  |  4  |  1  | Assault                               | 0      |
-| Needle Rifle         | 32" |  3  |  3  |  0  | Rending (2)                           | 1      |
-| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (3), Dual Wield (4) | 1      |
-| Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate                     | 0      |
-| Plasma Pistol        |     |     |     |     |                                       | 0      |
-| - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                        | -      |
-| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1)                    | -      |
-| Plasma Rifle         | 20" |  5  |  2  |  1  |                                       | 0      |
-| Vehicle Ram          | 1"  |  *  |  4  |  1  | Rending (2)                           | 0      |
+| Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
+| :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
+| Assault Cannon       | 18" |  4  |  6  |  2  | Heavy, Shred, Volley, Rending (2)         | 3      |
+| Beam Rifle           | 48" |  3  |  6  |  2  | Accurate, Rending (2)                     | 1      |
+| Covenant Carbine     | 36" |  4  |  3  |  1  | Accurate                                  | 0      |
+| Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Destructive (3). Shred           | 5      |
+| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley, Destructive (3)     | 3      |
+| Hunter Combat Shield | 1"  |  4  |  4  |  2  | Assault, Shred                            | 0      |
+| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
+| Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 1      |
+| Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3), Dual Wield (4) | 1      |
+| Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate, Destructive (3)        | 0      |
+| Plasma Pistol        |     |     |     |     |                                           | 0      |
+| - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                            | -      |
+| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1), Dual Wield (1)        | -      |
+| Plasma Rifle         | 20" |  5  |  3  |  1  |                                           | 0      |
+| Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
