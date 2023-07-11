@@ -89,6 +89,8 @@ Energy Sword
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    |        |
 | Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             |        |
 
+- **Configuration**: A Grunt Infantry Squad consists of 4 Grunt Minors
+
 ## Weapons
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |

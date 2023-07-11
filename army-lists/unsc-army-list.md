@@ -38,8 +38,7 @@ A Spartan II or Spartan IV may choose one of the following items:
 | ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 15     |
 
 - **Configuration**: An ODST unit consists of 2 ODSTs and may also include 1 ODST Sergeant.
-- **Equipment**: An ODST is equipped with an M7 SMG and M9 Grenades. Any ODST may replace its M7 SMG with any of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or MA5 Assault Rifle.  
-One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
+- **Equipment**: An ODST is equipped with an M7 SMG and M9 Grenades. Any ODST may replace its M7 SMG with any of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or MA5 Assault Rifle. One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
 ### UNSC Marines
 
