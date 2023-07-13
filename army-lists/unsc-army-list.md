@@ -1,4 +1,4 @@
-# Halo: Firefight - Human Forces Army List
+# Halo: Breakpoint - UNSC Army List
 
 ## UNSC Forces
 
