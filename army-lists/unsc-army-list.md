@@ -77,7 +77,7 @@ A UNSC Marines Unit consists of 5 Marines. One Marine may be upgraded to a Marin
 
 #### Equipment
 
-A Marine is equipped with an MA5 Assault Rifle and a Marine Sergeant is equipped with an M6 Pistol. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle. Any Marine may take an M9 Grenade.
+A Marine is equipped with an MA5 Assault Rifle and M9 Grenades and a Marine Sergeant is equipped with an M6 Pistol and M9 Grenades. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle. 
 
 -----
 
