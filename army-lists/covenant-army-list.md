@@ -155,7 +155,7 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 #### Configuration
 
-You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Infantry Squad consists of 3 Grunt Spec Ops, 1 may be upgraded to a Spec Ops Ultra.
+You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Spec Ops Squad consists of 3 Grunt Spec Ops, 1 may be upgraded to a Spec Ops Ultra.
 
 #### Equipment
 
