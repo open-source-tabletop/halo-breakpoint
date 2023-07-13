@@ -20,14 +20,6 @@ Models with the "Vehicle" special rule have the following changes to their rules
 
 Vehicles ignore the climbable keyword for terrain. In addition these models may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
 
-### Transports
-
-Vehicle models with the Transport (X) special rule may carry X models that do not have the Vehicle or Large rule. If a unit wishes to be carried by the transport it must perform the Embark action as detailed below.
-
-Models embarked on a transport are treated as being in reserve and may be activated and deployed as normal, treating the transport as their entry point - however they may only be placed within 1 inch of the transport vehicle.
-
-If the vehicle is destroyed while carrying other models these should be deployed before the transport is destroyed.
-
 #### Action: Embark (1 Command Point)
 
 A unit may perform this action while within 1 inch of a transport vehicle with sufficient capacity for the whole unit. Remove the unit from the board and place it into reserve as they are now being transported by this model.
