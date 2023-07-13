@@ -2,6 +2,8 @@
 
 ## UNSC Forces
 
+-----
+
 ### Spartans
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
@@ -106,6 +108,8 @@ A Warthog unit consists of 1 Warthog.
 #### Equipment
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
+
+-----
 
 ## Weapons and Upgrades
 
