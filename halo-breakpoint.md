@@ -1,8 +1,8 @@
-# Halo Firefight
+# Halo Breakpoint 
 
-Halo Firefight is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline.
+Halo Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline.
 
-You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Halo: Firefight please [visit the Halo: Firefight Github Project](https://github.com/open-source-tabletop/halo-firefight).
+You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Halo: Breakpoint please [visit the Halo: Breakpoint Github Project](https://github.com/open-source-tabletop/halo-breakpoint).
 
 > "In the 26th century, humankind has colonized hundreds of worlds in Earth's interstellar neighborhood, only to stumble upon a hostile alliance of aliens known as the Covenant. Motivated by the Prophets' promises of ascension to godhood in the form of the eponymous Halos, a series of ring-shaped superweapons built by the ancient race of the Forerunners, the Covenant are bent on humanity's destruction. With the apocalyptic Human-Covenant War concluded, members of both sides are faced with an uncertain future in a politically complex environment of numerous different factions and affiliations, while ancient Forerunner entities and technologies continue to involve themselves with the galaxy's affairs."
 
@@ -10,9 +10,9 @@ You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to pla
 
 This is an unofficial game but you can find out more about Halo at [Halo Waypoint: The Official Halo Website](https://www.halowaypoint.com/).
 
-## Playing Halo Firefight
+## Playing Halo Breakpoint 
 
-Halo: Firefight is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and some small vehicles.
+Halo: Breakpoint is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and some small vehicles.
 
 ### Vehicles
 
@@ -48,5 +48,5 @@ The following special rules are used in Halo Firefight games:
 
 ### Army Lists
 
-- [UNSC Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/unsc-army-list.md)
-- [Covenant Army List](https://github.com/open-source-tabletop/halo-firefight/blob/main/army-lists/covenant-army-list.md)
+- [UNSC Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/unsc-army-list.md)
+- [Covenant Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/covenant-army-list.md)
