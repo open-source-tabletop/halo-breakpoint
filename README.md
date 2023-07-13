@@ -8,7 +8,7 @@ You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to pla
 
 - [Play Halo: Breakpoint](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/halo-breakpoint.md)
 - [UNSC Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/unsc-army-list.md)
-- [Covenant Army List](https://github.com/open-source-tabletop/halo-fibreakpoint/blob/main/army-lists/covenant-army-list.md)
+- [Covenant Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/covenant-army-list.md)
 - [Halo: Breakpoint on Cadence.Games](https://cadence.games/halo-breakpoint/)
 
 ## Getting Involved
