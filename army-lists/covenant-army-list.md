@@ -112,8 +112,8 @@ Plasma Rifle, Needle Rifle, Covenant Carbine
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    |        |
-| Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             |        |
+| Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    | 7      |
+| Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7      |
 
 #### Configuration
 
@@ -123,7 +123,25 @@ A Grunt Infantry Squad consists of 3 Grunt Infantry Minors and may include 1 Gru
 
 Grunts are equipped with Plasma Pistols and any Grunt may take a Plasma Grenade. 1 Grunt may replace their Plasma Pistol with a Needler.
 
-## Weapons and Upgrades
+-----
+
+### Grunt Heavy
+
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Grunt Heavy              |  3  |  5" |  4+ |  5+ |  3  |  1  |                   | 7      |
+
+#### Configuration
+
+A Grunt Heavy unit consists of 1 Grunt Heavy.
+
+#### Equipment
+
+A Grunt Heavy is armed with a Fuel Rod Gun.
+
+-----
+
+## Summary
 
 ### Weapons
 
@@ -146,3 +164,16 @@ Grunts are equipped with Plasma Pistols and any Grunt may take a Plasma Grenade.
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
+
+### Units
+
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
+| Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Officer, Shields | 35     |
+| Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields          | 32     |
+| Elite Infantry Ultra     |  4  |  6" |  3+ |  4+ |  4  |  2  | Officer, Shields              | 25     | 
+| Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Officer, Shields              | 22     |
+| Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields                       | 18     |
+| Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic                | 7      |
+| Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic                         | 7      |
+| Grunt Heavy              |  3  |  5" |  4+ |  5+ |  3  |  1  |                               | 7      |

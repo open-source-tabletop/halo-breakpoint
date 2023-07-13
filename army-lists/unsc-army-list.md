@@ -109,7 +109,7 @@ A Warthog unit consists of 1 Warthog.
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
-## Weapons and Upgrades
+## Summary
 
 ### Upgrades
 
@@ -138,3 +138,15 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 | Vulcan "Chaingun"    | 24" |  7  |  4  |  2  | Rending (1), Shred                          | 12     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
+
+### Units
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Officer, Shields     | 44     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo, Officer | 35     |
+| ODST Sergeant     |  4  |  6" |  3+ |  4+ |  4  |  1  | Officer, Skilled     | 16     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  | Skilled              | 15     |
+| Marine Sergeant   |  3  |  6" |  4+ |  5+ |  3  |  1  | Officer              | 10     |
+| Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                      | 9      |
+| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle              | 32     |
