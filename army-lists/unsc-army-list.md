@@ -93,7 +93,7 @@ A UNSC Marine Weapons Team Consists of 2 Marines.
 
 #### Equipment
 
-One Marine is equipped with an M6 Pistol and an M9 Grenade, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
+One Marine is equipped with an M6 Pistol and M9 Grenades, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
 
 -----
 
