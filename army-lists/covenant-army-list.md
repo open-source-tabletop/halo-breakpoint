@@ -116,6 +116,7 @@ Plasma Rifle, Needle Rifle, Covenant Carbine
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Grunt Infantry Ultra     |  3  |  5" |  3+ |  4+ |  4  |  2  | Officer           | 10     |
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    | 7      |
 | Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7      |
 
@@ -145,7 +146,22 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 -----
 
+### Grunt Spec Ops
 
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Grunt Spec Ops Ultra     |  4  |  5" |  3+ |  4+ |  4  |  2  | Officer           | 15     |
+| Grunt Spec Ops           |  4  |  5" |  3+ |  5+ |  3  |  2  |                   | 7      |
+
+#### Configuration
+
+You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Infantry Squad consists of 3 Grunt Spec Ops, 1 may be upgraded to a Spec Ops Ultra.
+
+#### Equipment
+
+Grunt Spec Ops are equipped with Plasma Pistols and any model may take a Plasma Grenade. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. 1 Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
+
+-----
 
 ## Summary
 
