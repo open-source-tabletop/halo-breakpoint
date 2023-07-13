@@ -1,4 +1,6 @@
-# Halo: Breakpoint - UNSC Army List
+#### Halo: Breakpoint
+
+# UNSC Army List
 
 ## UNSC Forces
 
