@@ -9,12 +9,20 @@
 | Elite Honour Guard Ultra |  5  |  6" |  2+ |  3+ |  5  |  4  | Shields              | 40     |
 | Elite Honour Guardsman   |  5  |  6" |  2+ |  3+ |  5  |  3  | Shields              | 37     |
 
+#### Configuration
+
+#### Equipment
+
 ### Elite Spec Ops
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Shields | 35     |
 | Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields | 32     |
+
+#### Configuration
+
+#### Equipment
 
 4, 1 upgrade to officer 
 
@@ -34,6 +42,10 @@ Beam Rifle
 | Elite Infantry Ultra     |  4  |  6" |  3+ |  4+ |  4  |  2  | Shields           | 25     | 
 | Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 22     |
 | Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 18     |
+
+#### Configuration
+
+#### Equipment
 
 1 may be ultra or major
 3 minors
@@ -55,6 +67,10 @@ Plasma Pistol
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Stealth Infantry   |  4  |  6" |  3+ |  4+ |  4  |  2  | Active Camo       | 27     |
 
+#### Configuration
+
+#### Equipment
+
 2 models
 
 support special rule allows reserve til later
@@ -68,6 +84,10 @@ Plasma Rifle
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Infantry Ranger    |  4  |  6" |  3+ |  4+ |  4  |  2  | Flying            | 25     |
+
+#### Configuration
+
+#### Equipment
 
 3 models
 
@@ -84,6 +104,10 @@ Energy Sword
 
 ### Grunt Infantry
 
+#### Configuration
+
+#### Equipment
+
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    |        |
@@ -91,7 +115,9 @@ Energy Sword
 
 - **Configuration**: A Grunt Infantry Squad consists of 4 Grunt Minors
 
-## Weapons
+## Weapons and Upgrades
+
+### Weapons
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
