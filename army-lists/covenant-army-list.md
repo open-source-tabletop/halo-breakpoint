@@ -30,7 +30,7 @@ An Elite Spec Ops Squad consists of 2 Elite Spec Ops. 1 Elite may be upgraded to
 
 #### Equipment
 
-Elite Spec Ops are armed with Plasma Grenades and 1 of the following options:
+Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the following options:
 
 - Covenant Carbine
 - Plasma Rifle
@@ -55,7 +55,7 @@ An Elite Infantry Squad consists of 2 Elite Infantry Minors. 1 Elite Infantry Mi
 
 #### Equipment
 
-Elite Infantry are armed with a Plasma Rifle and Plasma Grenades.
+Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike (5).
 
 1 Elite may exchange their Plasma Rifle with one of the following: 
 
