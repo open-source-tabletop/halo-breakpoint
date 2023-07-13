@@ -2,6 +2,8 @@
 
 # Covenant Army List
 
+## Units
+
 <!--TODO
 
 ### Honour Guard
