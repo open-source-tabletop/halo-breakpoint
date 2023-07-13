@@ -131,7 +131,7 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 | M6 Pistol            | 8"  |  3  |  4  |  1  | Dual Wield (1)                              | 0      |
 | M7 SMG               | 18" |  8  |  3  |  0  | Rapid Fire (2), Rending (1), Dual Wield (2) | 0      |
 | M79 MLRS             | 18" |  6  |  5  |  2  | Split Fire, Indirect, Destructive (2)       | 10     |
-| M9 Grenade           | 8"  |  3  |  6  |  2  | Destructive (3), One Use, Indirect          | 1      |
+| M9 Grenade           | 8"  |  3  |  6  |  2  | Destructive (3), Grenade, Indirect          | 1      |
 | M90 Shotgun          | 12" |  3  |  5  |  1  | Accurate, Volley, Shred                     | 2      |
 | MA5 Assault Rifle    | 24" |  4  |  3  |  0  | Rapid Fire (2)                              | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                     | 0      |
