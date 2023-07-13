@@ -1,4 +1,4 @@
-# Halo: Firefight- Alien Forces Army List
+# Halo: Breakpoint- Covenant Army List
 
 <!--TODO
 
