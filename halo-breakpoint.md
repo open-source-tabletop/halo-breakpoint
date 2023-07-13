@@ -31,7 +31,7 @@ The following special rules are used in Halo Firefight games:
 | Model Special Rules | Effect |
 | :------------------ | :----- |
 | Active Camo | This model cannot be targeted by attacks from more than 12 inches away. If this model is hit by any attacks, makes and attack, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
-| Large | Attacks against this model from within 12 inches treat an obstructed line of sight as clear. |
+| Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. |
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. |
 | Panic | When this unit loses a model it must roll a d6, on a roll of 3+ the unit does nothing, otherwise the unit panics and loses a Command Point. This unit ignores this rule if it is within 6 inches of a friendly Elite or Brute unit. |
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
