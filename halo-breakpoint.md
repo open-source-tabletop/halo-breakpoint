@@ -1,6 +1,6 @@
-# Halo Breakpoint 
+# Halo: Breakpoint 
 
-Halo Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline.
+Halo: Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline.
 
 You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Halo: Breakpoint please [visit the Halo: Breakpoint Github Project](https://github.com/open-source-tabletop/halo-breakpoint).
 
