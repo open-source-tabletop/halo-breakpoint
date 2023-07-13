@@ -1,4 +1,6 @@
-# Halo: Breakpoint- Covenant Army List
+#### Halo: Breakpoint
+
+# Covenant Army List
 
 <!--TODO
 
