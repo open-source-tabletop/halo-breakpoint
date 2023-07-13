@@ -2,7 +2,7 @@
 
 # UNSC Army List
 
-## UNSC Forces
+## Units
 
 ### Spartans
 
