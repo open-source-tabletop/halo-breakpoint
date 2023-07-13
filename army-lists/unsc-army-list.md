@@ -32,6 +32,8 @@ A Spartan II or Spartan IV may choose one of the following items:
 - Overshield
 - Jet Pack
 
+-----
+
 ### ODSTs
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
@@ -56,6 +58,8 @@ Any ODST may replace its M7 SMG with any of the following:
 
 One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
+-----
+
 ### UNSC Marines
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
@@ -71,6 +75,8 @@ A UNSC Marines Unit consists of 5 Marines. One Marine may be upgraded to a Marin
 
 A Marine is equipped with an MA5 Assault Rifle and a Marine Sergeant is equipped with an M6 Pistol. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle.
 
+-----
+
 ### UNSC Marine Weapons Team
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
@@ -84,6 +90,8 @@ A UNSC Marine Weapons Team Consists of 2 Marines.
 #### Equipment
 
 One Marine is equipped with an M6 Pistol, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
+
+-----
 
 ### Warthog
 
