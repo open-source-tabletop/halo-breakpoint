@@ -126,7 +126,7 @@ A Grunt Infantry Squad consists of 3 Grunt Infantry Minors and may include 1 Gru
 
 #### Equipment
 
-Grunts are equipped with Plasma Pistols and any Grunt may take a Plasma Grenade. 1 Grunt may replace their Plasma Pistol with a Needler.
+Grunts are equipped with Plasma Pistols and Plasma Grenades. 1 Grunt may replace their Plasma Pistol with a Needler.
 
 -----
 
@@ -159,7 +159,7 @@ You may only take Grunt Spec Ops units in your army if it also includes at least
 
 #### Equipment
 
-Grunt Spec Ops are equipped with Plasma Pistols and any model may take a Plasma Grenade. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. 1 Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
+Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. 1 Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
 
 -----
 
@@ -178,7 +178,7 @@ Grunt Spec Ops are equipped with Plasma Pistols and any model may take a Plasma 
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
 | Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 1      |
 | Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3), Dual Wield (4) | 1      |
-| Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate, Destructive (3)        | 1      |
+| Plasma Grenade       | 8"  |  3  |  5  |  1  | Grenade, Accurate, Destructive (3)        | 1      |
 | Plasma Pistol        |     |     |     |     |                                           | 0      |
 | - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                            | -      |
 | - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1), Dual Wield (1)        | -      |
