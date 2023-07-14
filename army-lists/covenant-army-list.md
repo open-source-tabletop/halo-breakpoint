@@ -30,7 +30,7 @@
 
 #### Configuration
 
-An Elite Spec Ops Squad consists of 2 Elite Spec Ops. 1 Elite may be upgraded to an Elite Spec Ops Officer
+An Elite Spec Ops Squad consists of 2-3 Elite Spec Ops. 1 Elite may be replaced by an Elite Spec Ops Officer
 
 #### Equipment
 
@@ -55,7 +55,7 @@ Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the fo
 
 #### Configuration
 
-An Elite Infantry Squad consists of 2 Elite Infantry Minors. 1 Elite Infantry Minor may be upgraded to a Major or Ultra.
+An Elite Infantry Squad consists of 2-3 Elite Infantry Minors. 1 Elite Infantry Minor may be replaced by a Major or Ultra.
 
 #### Equipment
 
@@ -122,7 +122,7 @@ Plasma Rifle, Needle Rifle, Covenant Carbine
 
 #### Configuration
 
-A Grunt Infantry Squad consists of 3 Grunt Infantry Minors and may include 1 Grunt Infantry Major.
+A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors and 1 may be replaced by a Grunt Infantry Major.
 
 #### Equipment
 
@@ -155,11 +155,64 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 #### Configuration
 
-You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Spec Ops Squad consists of 3 Grunt Spec Ops, 1 may be upgraded to a Spec Ops Ultra.
+You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Spec Ops Squad consists of 3-5 Grunt Spec Ops, 1 may be replaced by a Spec Ops Ultra.
 
 #### Equipment
 
 Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. 1 Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
+
+-----
+
+### Jackal Infantry
+
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
+| Jackal Infantry Major    |  3  |  6" |  3+ |  6+ |  3  |  1  | Officer, Point Defence Gauntlet | 11     |
+| Jackal Infantry Minor    |  3  |  6" |  4+ |  6+ |  3  |  1  | Point Defence Gauntlet          | 10     |
+
+#### Configuration
+
+A Jackal Infantry unit consists of 3-5 Jackal Infantry Minors. 1 may be replaced by a Jackal Infantry Major.
+
+#### Equipment
+
+Jackal Infantry Minors and Majors are equipped with one of the following: a Plasma Pistol, a Plasma Rifle, or a Needler.
+
+-----
+
+### Jackal Sniper
+
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules              | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------- | :----- |
+| Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10     |
+
+#### Configuration
+
+A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
+
+#### Equipment
+
+A Jackal Snipers are equipped with either a Particle Beam Rifle, Covenant Carbine, Needle Rifle, or Beam Rifle.
+
+-----
+
+### Hunters
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
+| Hunter            |  4  |  5" |  4+ |  2+ |  6  |  6  | Hunter Weak Spot     | 52     |
+
+#### Configuration
+
+A Hunter unit consists of 2 Hunters.
+
+#### Equipment
+
+A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
+
+#### Special Rules
+
+**Hunter Weak Spot**: Attacks against this model which originate in the models rear arc count as having +3 Damage and +3 Piercing.
 
 -----
 
@@ -169,19 +222,20 @@ Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt S
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
-| Assault Cannon       | 18" |  4  |  6  |  2  | Heavy, Shred, Volley, Rending (2)         | 3      |
-| Beam Rifle           | 48" |  3  |  6  |  2  | Accurate, Rending (2)                     | 1      |
-| Covenant Carbine     | 36" |  4  |  3  |  1  | Accurate                                  | 0      |
+| Assault Cannon       | 18" |  4  |  6  |  3  | Heavy, Shred, Volley, Rending (2)         | 4      |
+| Beam Rifle           | 48" |  3  |  6  |  3  | Accurate, Rending (2)                     | 3      |
+| Covenant Carbine     | 36" |  4  |  3  |  2  | Accurate                                  | 2      |
 | Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Destructive (3). Shred           | 5      |
 | Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley, Destructive (3)     | 3      |
-| Hunter Combat Shield | 1"  |  4  |  6  |  3  | Assault, Shred                            | 0      |
+| Hunter Combat Shield | 1"  |  5  |  6  |  3  | Assault, Shred                            | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
-| Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 1      |
-| Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3), Dual Wield (4) | 1      |
+| Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 2      |
+| Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3)                 | 1      |
+| Particle Beam Rifle  | 48" |  2  |  6  |  4  | Accurate, Heavy, Destructive (3)          | 4      |
 | Plasma Grenade       | 8"  |  3  |  5  |  1  | Grenade, Accurate, Destructive (3)        | 1      |
 | Plasma Pistol        |     |     |     |     |                                           | 0      |
-| - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                            | -      |
-| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1), Dual Wield (1)        | -      |
+| - Standard           | 16" |  3  |  2  |  0  |                                           | -      |
+| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1),                       | -      |
 | Plasma Rifle         | 20" |  5  |  3  |  1  |                                           | 0      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
@@ -191,11 +245,3 @@ Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt S
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
-| Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Officer, Shields | 35     |
-| Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields          | 32     |
-| Elite Infantry Ultra     |  4  |  6" |  3+ |  4+ |  4  |  2  | Officer, Shields              | 25     | 
-| Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Officer, Shields              | 22     |
-| Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields                       | 18     |
-| Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic                | 7      |
-| Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic                         | 7      |
-| Grunt Heavy              |  3  |  5" |  4+ |  5+ |  3  |  1  |                               | 7      |

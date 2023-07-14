@@ -34,13 +34,13 @@ The following special rules are used in Halo Firefight games:
 | Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. |
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. |
 | Panic | When this unit loses a model it must roll a d6, on a roll of 3+ the unit does nothing, otherwise the unit panics and loses a Command Point. This unit ignores this rule if it is within 6 inches of a friendly Elite or Brute unit. |
+| Point Defence Gauntlet | Against attacks that originate in this models front arc this model this model has a +3 modifier to Defence Rolls. If the weapon has the Accurate special rule this modifier is reduced to +2. |
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
 | Split Fire | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
 | Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
-| Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
 
 ## Building an Army
 
