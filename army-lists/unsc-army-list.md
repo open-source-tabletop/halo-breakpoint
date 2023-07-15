@@ -8,8 +8,8 @@
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Officer, Shields     | 44     |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo, Officer | 35     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Officer, Shields     | 65     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo, Officer | 50     |
 
 #### Configuration
 
@@ -40,8 +40,8 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| ODST Sergeant     |  4  |  6" |  3+ |  4+ |  4  |  1  | Officer, Skilled  | 16     |
-| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  | Skilled           | 15     |
+| ODST Sergeant     |  4  |  6" |  3+ |  4+ |  3  |  1  | Officer           | 16     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 15     |
 
 #### Configuration
 

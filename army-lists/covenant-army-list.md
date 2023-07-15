@@ -10,8 +10,8 @@
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Elite Honour Guard Ultra |  5  |  6" |  2+ |  3+ |  5  |  4  | Shields              | 40     |
-| Elite Honour Guardsman   |  5  |  6" |  2+ |  3+ |  5  |  3  | Shields              | 37     |
+| Elite Honour Guard Ultra |  5  |  6" |  2+ |  3+ |  5  |  4  | Shields              | 38     |
+| Elite Honour Guardsman   |  5  |  6" |  2+ |  3+ |  5  |  3  | Shields              | 32     |
 
 #### Configuration
 
@@ -25,8 +25,8 @@
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
-| Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Officer, Shields | 35     |
-| Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields          | 32     |
+| Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Officer, Shields | 30     |
+| Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields          | 28     |
 
 #### Configuration
 
@@ -43,6 +43,10 @@ Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the fo
 - Needler
 - Beam Rifle
 
+#### Abilities
+
+- **Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+
 -----
 
 ### Elite Infantry
@@ -50,8 +54,8 @@ Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the fo
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Infantry Ultra     |  4  |  6" |  3+ |  4+ |  4  |  2  | Officer, Shields  | 25     | 
-| Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  3  |  2  | Officer, Shields  | 22     |
-| Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  3  |  2  | Shields           | 18     |
+| Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  4  |  2  | Officer, Shields  | 22     |
+| Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  4  |  2  | Shields           | 18     |
 
 #### Configuration
 
@@ -68,6 +72,10 @@ Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike 
 - Needle Rifle
 - Beam Rifle
 - Energy Sword
+
+#### Abilities
+
+- **Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
 
 -----
 
@@ -116,7 +124,7 @@ Plasma Rifle, Needle Rifle, Covenant Carbine
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Grunt Infantry Ultra     |  3  |  5" |  3+ |  4+ |  4  |  2  | Officer           | 10     |
+| Grunt Infantry Ultra     |  3  |  5" |  3+ |  4+ |  3  |  2  | Officer           | 10     |
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    | 7      |
 | Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7      |
 
@@ -150,8 +158,8 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Grunt Spec Ops Ultra     |  4  |  5" |  3+ |  4+ |  4  |  2  | Officer           | 15     |
-| Grunt Spec Ops           |  4  |  5" |  3+ |  5+ |  3  |  2  |                   | 7      |
+| Grunt Spec Ops Ultra     |  4  |  5" |  3+ |  4+ |  3  |  2  | Officer           | 16     |
+| Grunt Spec Ops           |  4  |  5" |  3+ |  4+ |  3  |  2  |                   | 16     |
 
 #### Configuration
 
@@ -167,8 +175,8 @@ Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt S
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
-| Jackal Infantry Major    |  3  |  6" |  3+ |  6+ |  3  |  1  | Officer, Point Defence Gauntlet | 11     |
-| Jackal Infantry Minor    |  3  |  6" |  4+ |  6+ |  3  |  1  | Point Defence Gauntlet          | 10     |
+| Jackal Infantry Major    |  3  |  6" |  3+ |  6+ |  3  |  1  | Officer                         | 11     |
+| Jackal Infantry Minor    |  3  |  6" |  4+ |  6+ |  3  |  1  |                                 | 10     |
 
 #### Configuration
 
@@ -176,7 +184,7 @@ A Jackal Infantry unit consists of 3-5 Jackal Infantry Minors. 1 may be replaced
 
 #### Equipment
 
-Jackal Infantry Minors and Majors are equipped with one of the following: a Plasma Pistol, a Plasma Rifle, or a Needler.
+Jackal Infantry Minors and Majors are equipped with a Point Defence Gauntlet and one of the following weapons: a Plasma Pistol, a Plasma Rifle, or a Needler.
 
 -----
 
@@ -200,7 +208,7 @@ A Jackal Snipers are equipped with either a Particle Beam Rifle, Covenant Carbin
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Hunter            |  4  |  5" |  4+ |  2+ |  6  |  6  | Hunter Weak Spot     | 52     |
+| Hunter            |  4  |  6" |  4+ |  2+ |  8  |  6  | Hunter Weak Spot     | 55     |
 
 #### Configuration
 
@@ -210,6 +218,10 @@ A Hunter unit consists of 2 Hunters.
 
 A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
+#### Abilities
+
+- **Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
+
 #### Special Rules
 
 **Hunter Weak Spot**: Attacks against this model which originate in the models rear arc count as having +3 Damage and +3 Piercing.
@@ -218,23 +230,29 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
 ## Summary
 
+### Upgrades
+
+| Upgrade | Effect | Points |
+| :------ | :----- | :----- |
+| Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the attack originates in the models front arc. | 5 |
+
 ### Weapons
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
 | Assault Cannon       | 18" |  4  |  6  |  3  | Heavy, Shred, Volley, Rending (2)         | 4      |
-| Beam Rifle           | 48" |  3  |  6  |  3  | Accurate, Rending (2)                     | 3      |
+| Beam Rifle           | 48" |  3  |  6  |  3  | Accurate, Rending (2)                     | 4      |
 | Covenant Carbine     | 36" |  4  |  3  |  2  | Accurate                                  | 2      |
 | Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Destructive (3). Shred           | 5      |
 | Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley, Destructive (3)     | 3      |
 | Hunter Combat Shield | 1"  |  5  |  6  |  3  | Assault, Shred                            | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
-| Needle Rifle         | 32" |  5  |  3  |  0  | Destructive (3)                           | 2      |
-| Needler              | 20" |  8  |  2  |  0  | Accurate, Destructive (3)                 | 1      |
+| Needle Rifle         | 32" |  6  |  3  |  0  | Destructive (3)                           | 2      |
+| Needler              | 20" |  10 |  2  |  0  | Accurate, Destructive (3)                 | 1      |
 | Particle Beam Rifle  | 48" |  2  |  6  |  4  | Accurate, Heavy, Destructive (3)          | 4      |
 | Plasma Grenade       | 8"  |  3  |  5  |  1  | Grenade, Accurate, Destructive (3)        | 1      |
 | Plasma Pistol        |     |     |     |     |                                           | 0      |
-| - Standard           | 16" |  3  |  2  |  0  |                                           | -      |
+| - Standard           | 16" |  3  |  3  |  1  |                                           | -      |
 | - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1),                       | -      |
 | Plasma Rifle         | 20" |  5  |  3  |  1  |                                           | 0      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
