@@ -4,16 +4,15 @@
 
 ## Units
 
-### Spartans
+### Spartan II / IV
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Officer, Shields     | 65     |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo, Officer | 50     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields              | 65     |
 
 #### Configuration
 
-A Spartan unit consists of 1 Spartan II, III, or IV.
+A Spartan unit consists of 1 Spartan II or IV.
 
 #### Equipment
 
@@ -33,6 +32,29 @@ A Spartan II or Spartan IV may choose one of the following items:
 - Active Camouflage
 - Overshield
 - Jet Pack
+
+-----
+
+### Spartan III
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo          | 50     |
+
+#### Configuration
+
+A Spartan unit consists of 1 Spartan III.
+
+#### Equipment
+
+A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). A Spartan may replace its MA5 Assault Rifle with any of the following:
+
+- M6 Pistol
+- M90 Shotgun
+- BR55 Service Rifle
+- M7 SMG
+- M41 Rocket Launcher
+- SRS99 Sniper Rifle
 
 -----
 
@@ -139,9 +161,9 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
 | Upgrade   | Effect | Points |
 | :-------- | :----- | :----- |
-| Active Camouflage | This model gains the Active Camouflage special rule. | 6 |
-| Overshield | This model gains +1 to its rolls to Counter Damage. | 6 |
-| Jet Pack | This model adds 3 inches to its Movement attribute and gains the Flying special rule during Advance actions. | 4 |
+| Active Camouflage | This model gains the Active Camouflage special rule. | 10 |
+| Overshield | This model gains +1 to its rolls to Counter Damage. | 10 |
+| Jet Pack | This model adds 3 inches to its Movement attribute and gains the Flying special rule during Advance actions. | 5 |
 
 ### Weapons
 
