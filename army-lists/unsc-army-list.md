@@ -43,7 +43,7 @@ An ODST Combat Team consists of 3-5 ODSTs, one ODST may be replaced with an ODST
 
 An ODST and ODST Sergeant is equipped with an M7 SMG and M9 Grenades.
 
-Any ODST may replace its M7 SMG with any of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or an MA5 Assault Rifle. One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
+Any ODST may replace its M7 SMG with one of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or an MA5 Assault Rifle. One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
 -----
 
