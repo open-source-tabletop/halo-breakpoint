@@ -6,32 +6,21 @@
 
 ### Spartan II / IV
 
+A Spartan unit consists of 1 Spartan II or IV.
+
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields              | 65     |
 
-#### Configuration
-
-A Spartan unit consists of 1 Spartan II or IV.
-
 #### Equipment
 
-A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). A Spartan may replace its MA5 Assault Rifle with any of the following:
+A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
-- M6 Pistol
-- M90 Shotgun
-- BR55 Service Rifle
-- M7 SMG
-- M41 Rocket Launcher
-- SRS99 Sniper Rifle
+A Spartan may replace its MA5 Assault Rifle with any of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, M7 SMG, M41 Rocket Launcher, or SRS99 Sniper Rifle.
 
 A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with Twin M7 SMGs.
 
-A Spartan II or Spartan IV may choose one of the following items:
-
-- Active Camouflage
-- Overshield
-- Jet Pack
+A Spartan may choose one of the following items: Active Camouflage, Overshield, or Jet Pack.
 
 -----
 
