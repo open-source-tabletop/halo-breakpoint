@@ -83,11 +83,13 @@ A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors, one Grunt Infantry
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Grunt Infantry Ultra     |  3  |  5" |  3+ |  4+ |  3  |  2  | Officer           | 10     |
+| Grunt Infantry Ultra     |  3  |  5" |  3+ |  4+ |  3  |  2  | Officer, Panic    | 10     |
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    | 7      |
 | Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7      |
 
 Grunts are equipped with Plasma Pistols and Plasma Grenades. One Grunt may replace their Plasma Pistol with a Needler.
+
+**Special Rule - Panic**: Any time this unit loses a model to an attack it must roll a d6. On a roll of a 1 it loses a Command Point. It may ignore this rule if it is within 9 inches of an Elite or Brute unit.
 
 -----
 
@@ -144,7 +146,7 @@ A Jackal Sniper is equipped with either a Particle Beam Rifle, Covenant Carbine,
 
 -----
 
-### Hunters
+### Hunter
 
 **When taking a Hunter unit you must always take two.**
 

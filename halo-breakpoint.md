@@ -18,11 +18,9 @@ Halo: Breakpoint is best played on a battlefield around 3ft by 4ft or larger and
 
 Models with the "Vehicle" special rule have the following changes to their rules:
 
-Vehicles ignore the climbable keyword for terrain. In addition these models may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
+Vehicles ignore the climbable keyword for terrain, treating them as impassable instead.
 
-#### Action: Embark (1 Command Point)
-
-A unit may perform this action while within 1 inch of a transport vehicle with sufficient capacity for the whole unit. Remove the unit from the board and place it into reserve as they are now being transported by this model.
+In addition these models may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
 
 ### Special Rules
 
@@ -30,11 +28,9 @@ The following special rules are used in Halo Firefight games:
 
 | Model Special Rules | Effect |
 | :------------------ | :----- |
-| Active Camo | This model cannot be targeted by attacks from more than 12 inches away. If this model is hit by any attacks, makes and attack, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
+| Active Camo | Attacks against this model have -1 to their Attack Roll and an additional -1 for every full 6 inches of distance between the attacker and target. If this model is hit by any attacks, makes any attack, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
 | Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. |
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. |
-| Panic | When this unit loses a model it must roll a d6, on a roll of 3+ the unit does nothing, otherwise the unit panics and loses a Command Point. This unit ignores this rule if it is within 6 inches of a friendly Elite or Brute unit. |
-| Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
@@ -42,8 +38,6 @@ The following special rules are used in Halo Firefight games:
 | Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
 
 ## Building an Army
-
-@TODO Army Building Rules
 
 ### Army Lists
 
