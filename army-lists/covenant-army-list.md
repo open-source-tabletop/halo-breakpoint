@@ -121,16 +121,12 @@ Grunt Spec Ops and Grunt Spec Ops Ultras are equipped with Plasma Pistols and Pl
 
 ### Jackal Infantry
 
+A Jackal Infantry unit consists of 3-5 Jackal Infantry Minors, one Jackal Infantry Minor may be replaced by a Jackal Infantry Major.
+
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                   | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------ | :----- |
 | Jackal Infantry Major    |  3  |  6" |  3+ |  6+ |  3  |  1  | Officer                         | 11     |
 | Jackal Infantry Minor    |  3  |  6" |  4+ |  6+ |  3  |  1  |                                 | 10     |
-
-#### Configuration
-
-A Jackal Infantry unit consists of 3-5 Jackal Infantry Minors. 1 may be replaced by a Jackal Infantry Major.
-
-#### Equipment
 
 Jackal Infantry Minors and Majors are equipped with a Point Defence Gauntlet and one of the following weapons: a Plasma Pistol, a Plasma Rifle, or a Needler.
 
@@ -138,41 +134,31 @@ Jackal Infantry Minors and Majors are equipped with a Point Defence Gauntlet and
 
 ### Jackal Sniper
 
+A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
+
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules              | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------- | :----- |
 | Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10     |
 
-#### Configuration
-
-A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
-
-#### Equipment
-
-A Jackal Snipers are equipped with either a Particle Beam Rifle, Covenant Carbine, Needle Rifle, or Beam Rifle.
+A Jackal Sniper is equipped with either a Particle Beam Rifle, Covenant Carbine, Needle Rifle, or Beam Rifle.
 
 -----
 
 ### Hunters
 
+**When taking a Hunter unit you must always take two.**
+
+A Hunter unit consists of 1 Hunter.
+
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
 | Hunter            |  4  |  6" |  4+ |  2+ |  8  |  6  | Hunter Weak Spot     | 55     |
 
-#### Configuration
-
-A Hunter unit consists of 2 Hunters.
-
-#### Equipment
-
 A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
-#### Abilities
+**Ability - Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
 
-- **Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
-
-#### Special Rules
-
-**Hunter Weak Spot**: Attacks against this model which originate in the models rear arc count as having +3 Damage and +3 Piercing.
+**Special Rule - Hunter Weak Spot**: Against attacks which originate in this models rear arc this model has a Defence of 4+ and a Toughness of 5.
 
 -----
 
@@ -206,8 +192,3 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
-
-### Units
-
-| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
-| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
