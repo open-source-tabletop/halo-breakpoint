@@ -36,7 +36,7 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 -----
 
-### ODSTs
+### ODST Combat Team
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
@@ -45,7 +45,7 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 #### Configuration
 
-An ODST unit consists of 2 ODSTs and may also include 1 ODST Sergeant.
+An ODST Combat Team consists of 3-5 ODSTs, one ODST may be replaced with an ODST Sergeant.
 
 #### Equipment
 
@@ -60,7 +60,29 @@ Any ODST may replace its M7 SMG with any of the following:
 
 One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
-You may give every member of an ODST unit Jet Packs.
+-----
+
+### ODST Air Assault Team
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| ODST Sergeant     |  4  |  6" |  3+ |  4+ |  3  |  1  | Officer           | 16     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 15     |
+
+#### Configuration
+
+An ODST Air Assault Team consists of 3-5 ODSTs, one ODST may be replaced with an ODST Sergeant.
+
+#### Equipment
+
+An ODST Air Assault is equipped with a MA5 Assault Rifle and M9 Grenades.
+
+Any ODST may replace its MA5 Assault Rifle with any of the following:
+
+- M6 Pistol
+- M90 Shotgun
+- BR55 Service Rifle
+- M7 SMG
 
 -----
 
