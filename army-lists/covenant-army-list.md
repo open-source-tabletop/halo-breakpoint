@@ -13,43 +13,26 @@
 | Elite Honour Guard Ultra |  5  |  6" |  2+ |  3+ |  5  |  4  | Shields              | 38     |
 | Elite Honour Guardsman   |  5  |  6" |  2+ |  3+ |  5  |  3  | Shields              | 32     |
 
-#### Configuration
-
-#### Equipment
-
------
-
 -->
 
 ### Elite Spec Ops
+
+An Elite Spec Ops Squad consists of 2-3 Elite Spec Ops. 1 Elite may be replaced by an Elite Spec Ops Officer
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
 | Elite Spec Ops Officer   |  4  |  6" |  2+ |  4+ |  5  |  3  | Active Camo, Officer, Shields | 30     |
 | Elite Spec Ops           |  4  |  6" |  3+ |  4+ |  5  |  2  | Active Camo, Shields          | 28     |
 
-#### Configuration
+Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and one of the following options: a Covenant Carbine, Plasma Rifle, Needle Rifle, Energy Sword, Needler, or Beam Rifle.
 
-An Elite Spec Ops Squad consists of 2-3 Elite Spec Ops. 1 Elite may be replaced by an Elite Spec Ops Officer
-
-#### Equipment
-
-Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the following options:
-
-- Covenant Carbine
-- Plasma Rifle
-- Needle Rifle
-- Energy Sword
-- Needler
-- Beam Rifle
-
-#### Abilities
-
-- **Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
 
 -----
 
 ### Elite Infantry
+
+An Elite Infantry Squad consists of 2-3 Elite Infantry Minors. 1 Elite Infantry Minor may be replaced by a Major or Ultra.
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
@@ -57,25 +40,11 @@ Elite Spec Ops are armed with Plasma Grenades, Melee Strike (5), and 1 of the fo
 | Elite Infantry Major     |  4  |  6" |  4+ |  4+ |  4  |  2  | Officer, Shields  | 22     |
 | Elite Infantry Minor     |  4  |  6" |  4+ |  4+ |  4  |  2  | Shields           | 18     |
 
-#### Configuration
-
-An Elite Infantry Squad consists of 2-3 Elite Infantry Minors. 1 Elite Infantry Minor may be replaced by a Major or Ultra.
-
-#### Equipment
-
 Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike (5).
 
-1 Elite may exchange their Plasma Rifle with one of the following: 
+One Elite Infantry may exchange their Plasma Rifle with one of the following: Needler, Covenant Carbine, Needle Rifle, Beam Rifle, or Energy Sword.
 
-- Needler
-- Covenant Carbine
-- Needle Rifle
-- Beam Rifle
-- Energy Sword
-
-#### Abilities
-
-- **Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
 
 -----
 
@@ -87,18 +56,12 @@ Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike 
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Stealth Infantry   |  4  |  6" |  3+ |  4+ |  4  |  2  | Active Camo       | 27     |
 
-#### Configuration
-
 2 Stealth Infantry
 
 Support special rule allows reserve til later
 ambush could be good deploy closer maybe another 5 points because they can be where you need
 
-#### Equipment
-
 Energy Sword, Plasma Rifle
-
------
 
 ### Elite Infantry Rangers
 
@@ -106,21 +69,17 @@ Energy Sword, Plasma Rifle
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Elite Infantry Ranger    |  4  |  6" |  3+ |  4+ |  4  |  2  | Flying            | 25     |
 
-#### Configuration
-
 3 Rangers
-
-#### Equipment
 
 Plasma Rifle, Needle Rifle, Covenant Carbine
 
 1 cam have Beam Rifle or Energy Sword
 
------
-
 -->
 
 ### Grunt Infantry
+
+A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors, one Grunt Infantry may be replaced by a Grunt Infantry Major.
 
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
@@ -128,27 +87,17 @@ Plasma Rifle, Needle Rifle, Covenant Carbine
 | Grunt Infantry Major     |  3  |  5" |  4+ |  5+ |  3  |  1  | Officer, Panic    | 7      |
 | Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7      |
 
-#### Configuration
-
-A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors and 1 may be replaced by a Grunt Infantry Major.
-
-#### Equipment
-
-Grunts are equipped with Plasma Pistols and Plasma Grenades. 1 Grunt may replace their Plasma Pistol with a Needler.
+Grunts are equipped with Plasma Pistols and Plasma Grenades. One Grunt may replace their Plasma Pistol with a Needler.
 
 -----
 
 ### Grunt Heavy
 
+A Grunt Heavy unit consists of 1 Grunt Heavy.
+
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Grunt Heavy              |  3  |  5" |  4+ |  5+ |  3  |  1  |                   | 7      |
-
-#### Configuration
-
-A Grunt Heavy unit consists of 1 Grunt Heavy.
-
-#### Equipment
 
 A Grunt Heavy is armed with a Fuel Rod Gun.
 
@@ -156,18 +105,17 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 ### Grunt Spec Ops
 
+**You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit.**
+
+A Grunt Spec Ops Squad consists of 3-5 Grunt Spec Ops, one Grunt Spec Ops may be replaced by a Spec Ops Ultra.
+
+
 | Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Grunt Spec Ops Ultra     |  4  |  5" |  3+ |  4+ |  3  |  2  | Officer           | 16     |
 | Grunt Spec Ops           |  4  |  5" |  3+ |  4+ |  3  |  2  |                   | 16     |
 
-#### Configuration
-
-You may only take Grunt Spec Ops units in your army if it also includes at least one Elite Spec Ops unit. A Grunt Spec Ops Squad consists of 3-5 Grunt Spec Ops, 1 may be replaced by a Spec Ops Ultra.
-
-#### Equipment
-
-Grunt Spec Ops are equipped with Plasma Pistols and Plasma Grenades. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. 1 Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
+Grunt Spec Ops and Grunt Spec Ops Ultras are equipped with Plasma Pistols and Plasma Grenades. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. One Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
 
 -----
 
