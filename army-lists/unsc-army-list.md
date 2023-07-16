@@ -75,7 +75,7 @@ An ODST Air Assault Team consists of 3-5 ODSTs, one ODST may be replaced with an
 
 #### Equipment
 
-An ODST Air Assault is equipped with a MA5 Assault Rifle and M9 Grenades.
+An ODST is equipped with a MA5 Assault Rifle and M9 Grenades.
 
 Any ODST may replace its MA5 Assault Rifle with any of the following:
 
