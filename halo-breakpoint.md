@@ -57,7 +57,28 @@ The 9 spots are labeld A-I as shown below:
 
 ![image](https://raw.githubusercontent.com/open-source-tabletop/halo-breakpoint/main/images/objective-diagram.svg)
 
-Primary Objective: Recover, Territorial Control, Sabotage.
+### Setting Up Terrain
+
+### Primary Player
+
+Players should roll-off, with the winner being declared the Primary Player. The Primary Player chooses one of the table edges with the other player taking the opposite edge. They may either choose or randomly determine their primary objective.
+
+### Primary Objectives
+
+The Primary Player declares their Primary Objective: Recover, Control, or Sabotage. The other player may then choose to contest the primary objective or select one of the other primary objectives.
+
+#### Recover
+
+The Recover objective is placed at positions A, B, or C. If the second player chose to contest the objective it is placed at either D, E, or F.
+
+#### Control
+
+Control objectives are placed in a line either A-E-I, B-E-H, D-E-F, or G-E-C. If the second player chose to contest one single objective is placed at E.
+
+#### Sabotage
+
+Sabotage objectives are placed at A, C, G, and I. If the second player chose to contest an additional objective is placed at E.
+
 
 Encounter Type: Assault, Defence, Battle
 
