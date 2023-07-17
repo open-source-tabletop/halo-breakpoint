@@ -45,7 +45,15 @@ The following special rules are used in Halo Firefight games:
 
 ## Missions
 
-Battlefield Configuration: 2 Long Table edges, 2 Short Table Edges, 9 Points 
+### Objective Locations
+
+Each player will determine their own objectives for each encounter, each of which will be located at one of 9 spots on the battlefield. These spots are always determined by the players assigned table edge. The 9 spots are:
+
+- The center of the battlefield
+- The midpoint between the center and each of the 4 corners of the battlefield
+- The midpoint between the center and the center of each table edge
+
+The 9 spots are labeld A-I as shown below:
 
 ![image](https://raw.githubusercontent.com/open-source-tabletop/halo-breakpoint/main/images/objective-diagram.svg)
 
