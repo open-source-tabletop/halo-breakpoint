@@ -18,9 +18,8 @@ Halo: Breakpoint is best played on a battlefield around 3ft by 4ft or larger and
 
 Models with the "Vehicle" special rule have the following changes to their rules:
 
-Vehicles ignore the climbable keyword for terrain, treating them as impassable instead.
-
-In addition these models may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
+- Vehicles ignore the climbable keyword for terrain, treating them as impassable instead.
+- Vehicles may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
 
 ### Special Rules
 
@@ -43,3 +42,17 @@ The following special rules are used in Halo Firefight games:
 
 - [UNSC Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/unsc-army-list.md)
 - [Covenant Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/covenant-army-list.md)
+
+## Missions
+
+Battlefield Configuration: 2 Long Table edges, 2 Short Table Edges, 9 Points 
+
+![image](https://raw.githubusercontent.com/open-source-tabletop/halo-breakpoint/main/images/objective-diagram.svg)
+
+Primary Objective: Recover, Territorial Control, Sabotage.
+
+Encounter Type: Assault, Defence, Battle
+
+Secondary Objective: Recon, Disruption, Control
+
+Complications: LZ is Hot, Night Fight,
