@@ -43,29 +43,33 @@ The following special rules are used in Halo Firefight games:
 - [UNSC Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/unsc-army-list.md)
 - [Covenant Army List](https://github.com/open-source-tabletop/halo-breakpoint/blob/main/army-lists/covenant-army-list.md)
 
-## Missions
+## Encounters
+
+In Halo: Breakpoint the objectives and conditions of battle are determined through a number of steps as players set their main and secondary objectives, the type of encounter, and any complications for the battle - such as night battles. Before you do this you should set up your battlefield with a good mix of terrain.
+
+### Primary and Secondary Player
+
+The first step in setting up your encounter is to determine who the primary and secondary player is, players roll-off and the winner can chooses which they want to be.
+
+### Table Edges
+
+The primary player chooses one of the table edges, this can be either a long or short table edge. The secondary player takes the opposite edge. 
 
 ### Objective Locations
 
-Each player will determine their own objectives for each encounter, each of which will be located at one of 9 spots on the battlefield. These spots are always determined by the players assigned table edge. The 9 spots are:
+Each player will determine their own objectives for each encounter, each of which will be located at one of 9 spots on the battlefield. These spots are always determined by the player in questions assigned table edge. The 9 spots are:
 
-- The center of the battlefield
-- The midpoint between the center and each of the 4 corners of the battlefield
-- The midpoint between the center and the center of each table edge
+- 1 at he center of the battlefield.
+- 4 at the midpoints between the center and each of the 4 corners of the battlefield.
+- 4 at the midpoints between the center and the center of each table edge
 
 The 9 spots are labeld A-I as shown below:
 
 ![image](https://raw.githubusercontent.com/open-source-tabletop/halo-breakpoint/main/images/objective-diagram.svg)
 
-### Setting Up Terrain
+### Determine Main Objectives
 
-### Primary Player
-
-Players should roll-off, with the winner being declared the Primary Player. The Primary Player chooses one of the table edges with the other player taking the opposite edge. They may either choose or randomly determine their primary objective.
-
-### Primary Objectives
-
-The Primary Player declares their Primary Objective: Recover, Control, or Sabotage. The other player may then choose to contest the primary objective or select one of the other primary objectives.
+The primary player declares their main objective as one of the following: Recovery, Territory Control, or Sabotage. The secondary player may then choose to contest the primary objective or select one of the other primary objectives.
 
 #### Recover
 
