@@ -116,8 +116,8 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 | MA5 Assault Rifle    | 24" |  2  |  3  |  0  | Rapid Fire (2)                              | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                     | 0      |
 | SRS99 Sniper Rifle   | 30" |  1  |  6  |  2  | Accurate, Destructive (3)                   | 3      |
-| Twin M7 SMG          | 18" |  12 |  3  |  0  | Assault, Rapid Fire (2), Rending (1)        | 2      |
+| Twin M7 SMG          | 18" |  9  |  3  |  0  | Assault, Rending (1)                        | 2      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                        | 0      |
-| Vulcan "Chaingun"    | 24" |  7  |  4  |  2  | Rending (1), Shred                          | 12     |
+| Vulcan "Chaingun"    | 24" |  7  |  4  |  2  | Rending (1)                                 | 12     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
