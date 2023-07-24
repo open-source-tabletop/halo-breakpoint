@@ -10,7 +10,7 @@ A Spartan II / IV unit consists of 1 Spartan II or IV.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields              | 85     |
+| Spartan II / IV   |  6  |  7" |  3+ |  2+ |  6  |  4  | Shields              | 80     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
@@ -24,7 +24,7 @@ A Spartan III unit consists of 1 Spartan III.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo          | 65     |
+| Spartan III       |  5  |  7" |  3+ |  3+ |  5  |  3  | Active Camo          | 60     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
@@ -68,8 +68,8 @@ A UNSC Marines Unit consists of 3-5 Marines. One Marine may be upgraded to a Mar
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Marine Sergeant   |  3  |  6" |  4+ |  5+ |  3  |  1  | Officer           | 10     |
-| Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 9      |
+| Marine Sergeant   |  3  |  6" |  4+ |  5+ |  3  |  1  | Officer           | 8      |
+| Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 7      |
 
 A Marine is equipped with an MA5 Assault Rifle and M9 Grenades and a Marine Sergeant is equipped with an M6 Pistol and M9 Grenades. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle.
 
@@ -93,7 +93,7 @@ A Warthog unit consists of 1 Warthog.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules          | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
-| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle                | 55     |
+| Warthog           |  3  | 12" |  4+ |  3+ |  8  |  8  | Vehicle                | 50     |
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
