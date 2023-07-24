@@ -10,7 +10,7 @@ A Spartan II / IV unit consists of 1 Spartan II or IV.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields              | 65     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields              | 85     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
@@ -24,7 +24,7 @@ A Spartan III unit consists of 1 Spartan III.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo          | 50     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo          | 65     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
@@ -81,7 +81,7 @@ A UNSC Marine Weapons Team Consists of 2 Marines.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 9      |
+| Marine            |  3  |  6" |  4+ |  5+ |  3  |  1  |                   | 8      |
 
 One Marine is equipped with an M6 Pistol and M9 Grenades, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
 
@@ -93,7 +93,7 @@ A Warthog unit consists of 1 Warthog.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules          | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
-| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle                | 32     |
+| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle                | 55     |
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
@@ -105,17 +105,17 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------------ | :----- |
-| BR55 Service Rifle   | 28" |  4  |  4  |  1  | Shred                                       | 1      |
+| BR55 Service Rifle   | 28" |  4  |  4  |  1  |                                             | 1      |
 | M247 Machine Gun     | 24" |  6  |  3  |  1  | Heavy, Deployable, Rending (1)              | 6      |
-| M41 Rocket Launcher  | 24" |  3  |  6  |  3  | Heavy, Indirect, Shred, Destructive (2)     | 4      |
-| M6 Pistol            | 8"  |  3  |  4  |  1  | Assault                                     | 0      |
-| M7 SMG               | 18" |  8  |  3  |  0  | Assault, Rapid Fire (2), Rending (1)        | 0      |
-| M79 MLRS             | 18" |  6  |  5  |  2  | Split Fire, Indirect, Destructive (2)       | 10     |
-| M9 Grenade           | 8"  |  3  |  6  |  2  | Destructive (3), Grenade, Indirect          | 1      |
-| M90 Shotgun          | 12" |  3  |  5  |  1  | Accurate, Volley, Shred                     | 2      |
-| MA5 Assault Rifle    | 24" |  4  |  3  |  0  | Rapid Fire (2)                              | 0      |
+| M41 Rocket Launcher  | 24" |  3  |  5  |  2  | Heavy, Rending (1)                          | 4      |
+| M6 Pistol            | 8"  |  2  |  4  |  1  | Assault                                     | 0      |
+| M7 SMG               | 18" |  6  |  3  |  0  | Assault                                     | 0      |
+| M79 MLRS             | 18" |  6  |  5  |  2  | Split Fire, Indirect, Shred                 | 10     |
+| M9 Grenade           | 8"  |  3  |  6  |  2  | Grenade, Indirect                           | 1      |
+| M90 Shotgun          | 8"  |  3  |  5  |  1  |                                             | 2      |
+| MA5 Assault Rifle    | 24" |  2  |  3  |  0  | Rapid Fire (2)                              | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                     | 0      |
-| SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)                       | 3      |
+| SRS99 Sniper Rifle   | 30" |  1  |  6  |  2  | Accurate, Destructive (3)                   | 3      |
 | Twin M7 SMG          | 18" |  12 |  3  |  0  | Assault, Rapid Fire (2), Rending (1)        | 2      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                        | 0      |
 | Vulcan "Chaingun"    | 24" |  7  |  4  |  2  | Rending (1), Shred                          | 12     |
