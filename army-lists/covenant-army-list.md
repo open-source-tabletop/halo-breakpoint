@@ -145,8 +145,8 @@ Needler              | 12" |  5  |  3  |  0  | Accurate, Destructive (2)        
 Particle Beam Rifle  | 30" |  2  |  6  |  3  | Heavy, Destructive (2)                    | 4
 Plasma Grenade       | 8"  |  3  |  5  |  1  | Grenade, Accurate, Destructive (3)        | 1
 Plasma Pistol        |     |     |     |     |                                           | 0
-- Standard           | 12" |  3  |  3  |  1  | Assault                                   | -
-- Overcharge         | 12" |  2  |  5  |  1  | Heavy, Rending (1)                        | -
+| - Standard           | 12" |  3  |  3  |  1  | Assault                                   | -
+| - Overcharge         | 12" |  2  |  5  |  1  | Heavy, Rending (1)                        | -
 Plasma Rifle         | 20" |  4  |  4  |  0  |                                           | 0
 Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0
 
