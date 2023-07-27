@@ -12,7 +12,7 @@ This is an unofficial game but you can find out more about Halo at [Halo Waypoin
 
 ## Playing Halo Breakpoint 
 
-Halo: Breakpoint is best played on a battlefield around 3ft by 4ft or larger and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and may include vehicles.
+Halo: Breakpoint is best played on a battlefield around 3ft by 4ft and is designed for 28mm scale, individually based miniatures. Most games will feature several squads of models and larger games may include vehicles.
 
 A game of Halo: Breakpoint lasts for 6 rounds.
 
@@ -36,6 +36,7 @@ The following special rules are used in Halo Firefight games:
 | Jetpack | This model counts as having the Flying special rule and gains +2 to their Movement attribute when making an Advance action. |
 | Panic | Any time this unit loses a model to an attack it must roll a d6. On a roll of a 1 it loses a Command Point. |
 | Weak Spot | Against attacks which originate in this models rear arc this model has -2 to its Defence and Counter Rolls. |
+| Valuable Asset (X) | Killing a model with this Special rule awards X Victory Points. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
@@ -44,9 +45,15 @@ The following special rules are used in Halo Firefight games:
 
 ## Building an Army
 
-When building an army for Halo: Breakpoint you choose units from the provided army lists, adding up the points for the models, their weapons, and equipment. Games are usually played around 300 points per player - if you wish to play larger games you may require a larger battlefield.
+When building an army for Halo: Breakpoint you choose units from the provided army lists, adding up the points for the models, their weapons, and equipment.
 
-There are 2 types of unit available to add to your army: Standard and Specialist. Your army must contain at least 50% Standard units by points, and no more than 50% Specialist units.
+- Small games are played with armies up to 200 points.
+- Standard games are played with armies up to 300 points.
+- Larger games can be played at 400 and 500 points but these typically require a much larger battlefield.
+
+For more sustained battles players can choose to add 100 points of reinforcements, additional units of any kind which become available from the start of round 3 to be deployed from reserve. 
+
+There are 3 types of unit available to add to your army: Standard, Specialist and Vehicles. Your army must contain at least 50% Standard units by points, and no more than 50% Specialist units. Vehicles count as Specialist units and are only used in games of 400 or more points (unless players agree to use them).
 
 ### Army Lists
 
