@@ -138,11 +138,11 @@ Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the 
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
-| Assault Cannon       | 18" |  3  |  5  |  3  | Destructive (3), Shred                    | 10     |
+| Assault Cannon       | 20" |  3  |  5  |  3  | Blast (1), Destructive (3), Shred         | 10     |
 | Beam Rifle           | 28" |  3  |  5  |  3  | Accurate, Heavy                           | 4      |
-| Covenant Carbine     | 20" |  4  |  3  |  1  | Plasma                                    | 1      |
+| Covenant Carbine     | 20" |  5  |  3  |  1  | Plasma                                    | 1      |
 | Energy Sword         | 1"  |  3  |  4  |  4  | Assault, Destructive (3)                  | 5      |
-| Fuel Rod Gun         | 28" |  2  |  5  |  3  | Destructive (3), Heavy                    | 7      |
+| Fuel Rod Gun         | 28" |  2  |  5  |  3  | Blast (1), Destructive (3), Heavy         | 7      |
 | Hunter Combat Shield | 1"  |  4  |  5  |  2  | Assault, Shred                            | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
 | Needle Rifle         | 20" |  4  |  4  |  0  | Destructive (2), Heavy                    | 2      |
@@ -151,7 +151,7 @@ Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the 
 | Plasma Pistol        |     |     |     |     |                                           | 0      |
 | - Standard           | 10" |  3  |  3  |  1  | Assault, Plasma                           | -      |
 | - Overcharge         | 10" |  2  |  5  |  1  | Heavy, Plasma, Rending (1)                | -      |
-| Plasma Rifle         | 18" |  3  |  4  |  0  | Plasma, Rapid Fire (1)                    | 0      |
+| Plasma Rifle         | 18" |  5  |  4  |  0  | Plasma                                    | 0      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
