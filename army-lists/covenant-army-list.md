@@ -130,9 +130,9 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
 ### Upgrades
 
-Upgrade | Effect | Points
-:------ | :----- | :-----
-Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the attack originates in the models front arc. | 4
+| Upgrade | Effect | Points |
+| :------ | :----- | :----- |
+| Point Defence Gauntlet | This model has a +3 modifier to Defence Rolls when the attack originates in the models front arc. | 4 |
 
 ### Weapons
 
