@@ -18,6 +18,8 @@ Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike 
 
 One Elite Infantry may exchange their Plasma Rifle with one of the following: Needler, Covenant Carbine, Needle Rifle, Beam Rifle, or Energy Sword.
 
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+
 ### Grunt Infantry
 
 A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors.
@@ -82,7 +84,7 @@ Elite Infantry Commanders are armed with a Plasma Rifle, Plasma Grenades, and Me
 
 An Elite Infantry Commander may exchange their Plasma Rifle with one of the following: Needler, Covenant Carbine, Needle Rifle, Beam Rifle, or Energy Sword.
 
-Elite Infantry Commanders have the Dodge ability.
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
 
 ### Jackal Snipers
 
@@ -92,7 +94,7 @@ Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules    
 :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------- | :-----
 Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10
 
-A Jackal Sniper is equipped with either a Particle Beam Rifle, Covenant Carbine, Needle Rifle, or Beam Rifle.
+A Jackal Sniper is equipped with either a Covenant Carbine, Needle Rifle, or Beam Rifle.
 
 ### Grunt Heavy
 
@@ -118,6 +120,9 @@ Hunter            |  4  |  6" |  4+ |  2+ |  6  |  6  | Weak Spot            | 5
 
 A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
+**Ability - Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
+
+
 
 
 
@@ -127,32 +132,26 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
 Upgrade | Effect | Points
 :------ | :----- | :-----
-Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the attack originates in the models front arc. | 3
+Point Defence Gauntlet | This model has a +2 modifier to Defence Rolls when the attack originates in the models front arc. | 4
 
 ### Weapons
 
-Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points
-:------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :-----
-Assault Cannon       | 18" |  4  |  5  |  3  | Shred, Rending (2)                        | 6
-Beam Rifle           | 30" |  1  |  5  |  3  | Accurate, Destructive (2)                 | 4
-Covenant Carbine     | 20" |  4  |  3  |  1  |                                           | 1
-Energy Sword         | 1"  |  3  |  4  |  4  | Assault, Destructive (3)                  | 5
-Fuel Rod Gun         | 30" |  2  |  6  |  3  | Heavy, Destructive (3)                    | 3
-Hunter Combat Shield | 1"  |  4  |  5  |  2  | Assault, Shred                            | 0
-Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0
-Needle Rifle         | 24" |  4  |  3  |  0  | Destructive (2)                           | 2
-Needler              | 12" |  5  |  3  |  0  | Accurate, Destructive (2)                 | 1
-Particle Beam Rifle  | 30" |  2  |  6  |  3  | Heavy, Destructive (2)                    | 4
-Plasma Grenade       | 8"  |  3  |  5  |  1  | Grenade, Accurate, Destructive (3)        | 1
-Plasma Pistol        |     |     |     |     |                                           | 0
-| - Standard           | 12" |  3  |  3  |  1  | Assault                                   | -
-| - Overcharge         | 12" |  2  |  5  |  1  | Heavy, Rending (1)                        | -
-Plasma Rifle         | 20" |  4  |  4  |  0  |                                           | 0
-Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0
+| Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
+| :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
+| Assault Cannon       | 18" |  3  |  5  |  3  | Destructive (3), Shred                    | 10     |
+| Beam Rifle           | 28" |  3  |  5  |  3  | Accurate, Heavy                           | 4      |
+| Covenant Carbine     | 20" |  4  |  3  |  1  | Plasma                                    | 1      |
+| Energy Sword         | 1"  |  3  |  4  |  4  | Assault, Destructive (3)                  | 5      |
+| Fuel Rod Gun         | 28" |  2  |  5  |  3  | Destructive (3), Heavy                    | 7      |
+| Hunter Combat Shield | 1"  |  4  |  5  |  2  | Assault, Shred                            | 0      |
+| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
+| Needle Rifle         | 20" |  4  |  4  |  0  | Destructive (2), Heavy                    | 2      |
+| Needler              | 10" |  5  |  3  |  0  | Accurate, Destructive (2)                 | 1      |
+| Plasma Grenade       | 8"  |  3  |  5  |  1  | Blast (1), Grenade, Plasma                | 0      |
+| Plasma Pistol        |     |     |     |     |                                           | 0      |
+| - Standard           | 10" |  3  |  3  |  1  | Assault, Plasma                           | -      |
+| - Overcharge         | 10" |  2  |  5  |  1  | Heavy, Plasma, Rending (1)                | -      |
+| Plasma Rifle         | 18" |  3  |  4  |  0  | Plasma, Rapid Fire (1)                    | 0      |
+| Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
-
-
-**Ability - Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
-
-**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.

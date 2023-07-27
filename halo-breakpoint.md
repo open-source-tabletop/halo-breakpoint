@@ -30,16 +30,17 @@ The following special rules are used in Halo Firefight games:
 
 | Model Special Rules | Effect |
 | :------------------ | :----- |
-| Active Camo | Attacks against this model have -1 to their Attack Roll and an additional -1 for every full 6 inches of distance between the attacker and target. If this model is hit by any attacks, makes any attack, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
+| Active Camo | Attacks against this model have -1 to their Attack Roll and an additional -1 for every full 12 inches of distance between the attacker and target. If this model is hit by any attacks, takes an attack action, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
 | Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. |
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. Units with the Panic special rule may re-roll their panic test if they are within 6 inches of a friendly unit with this special rule. |
 | Jetpack | This model counts as having the Flying special rule and gains +2 to their Movement attribute when making an Advance action. |
 | Panic | Any time this unit loses a model to an attack it must roll a d6. On a roll of a 1 it loses a Command Point. |
-| Weak Spot | Against attacks which originate in this models rear arc this model has -2 to its Defence Rolls and Counter Rolls. |
+| Weak Spot | Against attacks which originate in this models rear arc this model has -2 to its Defence and Counter Rolls. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
 | Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
+| Plasma | The Shields special rule does not apply against attacks against weapons with this rule. |
 
 ## Building an Army
 
