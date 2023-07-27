@@ -58,7 +58,7 @@ A Spartan II / IV unit consists of 1 Spartan II or IV.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  3+ |  2+ |  6  |  4  | Shields              | 80     |
+| Spartan II / IV   |  6  |  7" |  3+ |  2+ |  6  |  4  | Shields              | 85     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
@@ -71,7 +71,7 @@ A Spartan III unit consists of 1 Spartan III.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Spartan III       |  5  |  7" |  3+ |  3+ |  5  |  3  | Active Camo          | 60     |
+| Spartan III       |  5  |  7" |  3+ |  3+ |  5  |  3  | Active Camo          | 65     |
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6). 
 
