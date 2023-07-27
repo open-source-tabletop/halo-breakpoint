@@ -91,11 +91,13 @@ One Marine is equipped with an M6 Pistol and M9 Grenades, the other Marine must 
 
 ### Warthog
 
+**You may only include 1 Warthog in your army.**
+
 A Warthog unit consists of 1 Warthog.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules          | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
-| Warthog           |  4  | 9"  |  4+ |  3+ |  6  |  6  | Vehicle                | 80     |
+| Warthog           |  4  | 8"  |  4+ |  3+ |  5  |  5  | Vehicle                | 95     |
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
@@ -110,19 +112,19 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------------ | :----- |
-| BR55 Service Rifle   | 20" |  3  |  4  |  1  | Rapid Fire (1)                              | 1      |
-| M247 Machine Gun     | 24" |  4  |  3  |  1  | Heavy, Deployable, Rapid Fie (2)            | 6      |
+| BR55 Service Rifle   | 20" |  4  |  4  |  1  |                                             | 1      |
+| M247 Machine Gun     | 24" |  4  |  3  |  1  | Heavy, Deployable, Rapid Fie (1)            | 6      |
 | M41 Rocket Launcher  | 24" |  3  |  5  |  2  | Blast (1), Destructive (2), Heavy           | 5      |
-| M6 Pistol            | 8"  |  2  |  4  |  1  | Assault                                     | 0      |
-| M7 SMG               | 16" |  4  |  3  |  0  | Assault, Rapid Fire (1)                     | 0      |
+| M6 Pistol            | 8"  |  2  |  4  |  2  | Assault                                     | 0      |
+| M7 SMG               | 16" |  5  |  3  |  0  |                                             | 0      |
 | M79 MLRS             | 16" |  4  |  5  |  1  | Blast (2), Indirect, Shred                  | 8      |
 | M9 Grenade           | 8"  |  3  |  6  |  2  | Blast (1), Grenade, Indirect                | 1      |
 | M90 Shotgun          | 8"  |  3  |  5  |  1  | Destructive (2)                             | 2      |
-| MA5 Assault Rifle    | 16" |  2  |  4  |  0  | Rapid Fire (2)                              | 0      |
+| MA5 Assault Rifle    | 16" |  4  |  4  |  0  |                                             | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                     | 0      |
 | SRS99 Sniper Rifle   | 28" |  1  |  6  |  2  | Accurate, Destructive (3)                   | 4      |
-| Twin M7 SMG          | 16" |  6  |  3  |  0  | Assault, Rapid Fire (1)                     | 1      |
+| Twin M7 SMG          | 16" |  8  |  3  |  0  | Assault                                     | 1      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                        | 0      |
-| Vulcan "Chaingun"    | 18" |  4  |  4  |  2  | Rapid Fire (3), Rending (1)                 | 10     |
+| Vulcan "Chaingun"    | 18" |  4  |  4  |  2  | Rapid Fire (2), Rending (1)                 | 10     |
 
 * The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
