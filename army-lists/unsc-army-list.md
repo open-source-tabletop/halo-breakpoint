@@ -97,7 +97,7 @@ A Warthog unit consists of 1 Warthog.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules          | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
-| Warthog           |  4  | 8"  |  4+ |  3+ |  5  |  5  | Vehicle                | 95     |
+| Warthog           |  4  | 8"  |  4+ |  3+ |  5  |  5  | Vehicle                | 110     |
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
