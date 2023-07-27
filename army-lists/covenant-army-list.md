@@ -18,7 +18,7 @@ Elite Infantry are armed with a Plasma Rifle, Plasma Grenades, and Melee Strike 
 
 One Elite Infantry may exchange their Plasma Rifle with one of the following: Needler, Covenant Carbine, Needle Rifle, Beam Rifle, or Energy Sword.
 
-**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+. After the attacking unit has finished it's Attack action you may move any model in the unit following the rules for a Move action up to 2 inches. 
 
 ### Grunt Infantry
 
@@ -38,8 +38,8 @@ A Grunt Infantry Commander unit consists of 1 Grunt Infantry Major or Ultra.
 
 Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points
 :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :-----
-Grunt Infantry Ultra     |  4  |  5" |  4+ |  5+ |  3  |  3  |                   | 12
-Grunt Infantry Major     |  4  |  5" |  4+ |  5+ |  3  |  2  |                   | 9
+Grunt Infantry Ultra     |  4  |  5" |  3+ |  5+ |  3  |  3  |                   | 12
+Grunt Infantry Major     |  4  |  5" |  3+ |  5+ |  3  |  3  |                   | 9
 
 Grunts Commanders are equipped with Plasma Pistols and Plasma Grenades amd may replace their Plasma Pistol with a Needler.
 
@@ -84,15 +84,15 @@ Elite Infantry Commanders are armed with a Plasma Rifle, Plasma Grenades, and Me
 
 An Elite Infantry Commander may exchange their Plasma Rifle with one of the following: Needler, Covenant Carbine, Needle Rifle, Beam Rifle, or Energy Sword.
 
-**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may move any model in the unit following the rules for a Move action up to 2 inches. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+.
+**Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+. After the attacking unit has finished it's Attack action you may move any model in the unit following the rules for a Move action up to 2 inches. 
 
 ### Jackal Snipers
 
 A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
 
-Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules              | Points
-:----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------- | :-----
-Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules              | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------- | :----- |
+| Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10     |
 
 A Jackal Sniper is equipped with either a Covenant Carbine, Needle Rifle, or Beam Rifle.
 
@@ -102,9 +102,9 @@ A Jackal Sniper is equipped with either a Covenant Carbine, Needle Rifle, or Bea
 
 A Grunt Heavy unit consists of 1 Grunt Heavy.
 
-Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points
-:----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :-----
-Grunt Heavy              |  4  |  5" |  4+ |  5+ |  4  |  1  |                   | 8
+| Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :----------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Grunt Heavy              |  4  |  5" |  4+ |  5+ |  4  |  1  |                   | 8      |
 
 A Grunt Heavy is armed with a Fuel Rod Gun.
 
@@ -114,9 +114,9 @@ A Grunt Heavy is armed with a Fuel Rod Gun.
 
 A Hunter unit consists of 1 Hunter.
 
-Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules        | Points
-:---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------- | :-----
-Hunter            |  4  |  6" |  4+ |  2+ |  6  |  6  | Weak Spot            | 55
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                 | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------- | :----- |
+| Hunter            |  4  |  6" |  4+ |  2+ |  8  |  6  | Weak Spot, Valuable Asset (1) | 58     |
 
 A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
