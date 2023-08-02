@@ -34,7 +34,6 @@ The following special rules are used in Halo Firefight games:
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. Units with the Panic special rule may re-roll their panic test if they are within 6 inches of a friendly unit with this special rule. |
 | Jetpack | This model counts as having the Flying special rule and gains +2 to their Movement attribute when making an Advance action. |
 | Panic | Any time this unit loses a model to an attack it must roll a d6. On a roll of a 1 it loses a Command Point. |
-| Weak Spot (X) | Against attacks which originate in the named arc X, this model has -1 to its Defence and Counter Rolls. |
 | Valuable Asset (X) | Killing a model with this Special rule awards X Victory Points. |
 
 | Weapon Special Rules | Effect |
