@@ -18,11 +18,7 @@ A game of Halo: Breakpoint lasts for 6 rounds.
 
 ### Vehicles
 
-Models with the "Vehicle" special rule have the following changes to their rules:
-
-- Vehicles ignore the climbable keyword for terrain, treating them as impassable instead.
-- Vehicles count as having the "Non-scoring" special rule.
-- Vehicles may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
+Models with the "Vehicle" special rule have the following changes to their rules: Vehicles may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon.
 
 ### Special Rules
 
