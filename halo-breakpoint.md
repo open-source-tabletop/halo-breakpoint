@@ -1,6 +1,6 @@
 # Halo: Breakpoint 
 
-Halo: Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline.
+Halo: Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline using 28mm miniatures. As there are no official miniatures in this scale you will need to find suitable proxies, or fan made sculpts to use.
 
 You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Halo: Breakpoint please [visit the Halo: Breakpoint Github Project](https://github.com/open-source-tabletop/halo-breakpoint).
 
@@ -28,7 +28,7 @@ The following special rules are used in Halo Firefight games:
 | :------------------ | :----- |
 | Active Camo | Attacks against this model have -1 to their Attack Roll and an additional -1 for every full 12 inches of distance between the attacker and target. If this model is hit by any attacks, takes an attack action, or spends more than 3 Command Points during an activation it loses the Active Camo rule for the remainder of the round. |
 | Officer | Units that contain an Officer model do not have to roll when activating with a single command point, they automatically pass the test. Units with the Panic special rule may re-roll their panic test if they are within 6 inches of a friendly unit with this special rule. |
-| Jetpack | This model counts as having the Flying special rule and gains +2 to their Movement attribute when making an Advance action. |
+| Jetpack | This model counts as having the Flying special rule and gains +3 to their Movement attribute when making an Advance action. |
 | Panic | Any time this unit loses a model to an attack it must roll a d6. On a roll of a 1 it loses a Command Point. |
 | Valuable Asset (X) | Killing a model with this Special rule awards X Victory Points. |
 

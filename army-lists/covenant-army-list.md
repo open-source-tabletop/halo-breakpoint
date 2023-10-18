@@ -138,11 +138,11 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
-| Assault Cannon       | 20" |  3  |  5  |  3  | Blast (1), Destructive (3), Shred         | 10     |
+| Assault Cannon       | 20" |  5  |  5  |  3  | Blast (2), Destructive (3), Shred         | 12     |
 | Beam Rifle           | 28" |  3  |  5  |  3  | Accurate, Heavy                           | 4      |
 | Covenant Carbine     | 20" |  5  |  3  |  1  | Plasma                                    | 1      |
-| Energy Sword         | 1"  |  3  |  4  |  4  | Assault, Destructive (3)                  | 5      |
-| Fuel Rod Gun         | 28" |  2  |  5  |  3  | Blast (1), Destructive (3), Heavy         | 7      |
+| Energy Sword         | 1"  |  4  |  4  |  4  | Assault, Destructive (3)                  | 5      |
+| Fuel Rod Gun         | 28" |  3  |  5  |  3  | Blast (2), Destructive (3), Heavy         | 7      |
 | Hunter Combat Shield | 1"  |  4  |  5  |  2  | Assault, Shred                            | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                                   | 0      |
 | Needle Rifle         | 20" |  4  |  4  |  0  | Destructive (2), Heavy                    | 2      |

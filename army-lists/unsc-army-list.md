@@ -2,9 +2,9 @@
 
 # UNSC Army List
 
+> The United Nations Space Command (UNSC) is the military, exploratory, training, and scientific agency of the Unified Earth Government.
 
 ## Standard Units
-
 
 ### UNSC Marines
 
@@ -97,7 +97,7 @@ A Warthog unit consists of 1 Warthog.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules          | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------- | :----- |
-| Warthog           |  4  | 8"  |  4+ |  3+ |  5  |  5  | Vehicle                | 110     |
+| Warthog           |  4  | 8"  |  4+ |  3+ |  5  |  5  | Vehicle                | 120    |
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
