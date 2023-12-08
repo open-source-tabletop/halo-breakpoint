@@ -1,8 +1,6 @@
-#### Halo: Breakpoint
-
 # Covenant Army List
 
-
+---
 
 ## Standard Units
 
@@ -20,6 +18,8 @@ One Elite Infantry may exchange their Plasma Rifle with one of the following: Ne
 
 **Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+. After the attacking unit has finished it's Attack action you may move any model in the unit following the rules for a Move action up to 2 inches. 
 
+---
+
 ### Grunt Infantry
 
 A Grunt Infantry Squad consists of 3-5 Grunt Infantry Minors.
@@ -29,6 +29,8 @@ Model                    | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules    
 Grunt Infantry Minor     |  3  |  5" |  4+ |  5+ |  3  |  1  | Panic             | 7
 
 Grunts are equipped with Plasma Pistols and Plasma Grenades. Any Grunt may replace their Plasma Pistol with a Needler.
+
+---
 
 ### Grunt Infantry Commander
 
@@ -43,6 +45,8 @@ Grunt Infantry Major     |  4  |  5" |  3+ |  5+ |  3  |  3  |                  
 
 Grunts Commanders are equipped with Plasma Pistols and Plasma Grenades amd may replace their Plasma Pistol with a Needler.
 
+---
+
 ### Grunt Spec Ops
 
 A Grunt Spec Ops Squad consists of 3-5 Grunt Spec Ops, one Grunt Spec Ops may be replaced by a Spec Ops Ultra.
@@ -53,6 +57,8 @@ Grunt Spec Ops Ultra     |  4  |  5" |  3+ |  4+ |  3  |  2  | Officer          
 Grunt Spec Ops           |  4  |  5" |  3+ |  4+ |  3  |  2  |                   | 15
 
 Grunt Spec Ops and Grunt Spec Ops Ultras are equipped with Plasma Pistols and Plasma Grenades. Any Grunt Spec Ops may replace their Plasma Pistol with a Needler. One Grunt Spec Ops may exchange their Plasma Pistol for a Fuel Rod Gun.
+
+---
 
 ### Jackal Infantry
 
@@ -65,7 +71,7 @@ Jackal Infantry Minor    |  3  |  6" |  4+ |  6+ |  3  |  1  |                  
 
 Jackal Infantry Minors and Majors are equipped with a Point Defence Gauntlet and one of the following weapons: a Plasma Pistol, a Plasma Rifle, or a Needler.
 
-
+---
 
 ## Specialist Units
 
@@ -86,6 +92,8 @@ An Elite Infantry Commander may exchange their Plasma Rifle with one of the foll
 
 **Ability - Dodge (1 Command Point Reaction)**: When this model is declared the target of an attack from more than 6 inches away you may immediately perform the Dodge action. You may re-roll your Defence Rolls against the attack and it may not be modified to worse than a 6+. After the attacking unit has finished it's Attack action you may move any model in the unit following the rules for a Move action up to 2 inches. 
 
+---
+
 ### Jackal Snipers
 
 A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
@@ -95,6 +103,8 @@ A Jackal Sniper Unit consists of 2-3 Jackal Snipers.
 | Jackal Sniper            |  3  |  6" |  3+ |  6+ |  3  |  1  |                            | 10     |
 
 A Jackal Sniper is equipped with either a Covenant Carbine, Needle Rifle, or Beam Rifle.
+
+---
 
 ### Grunt Heavy
 
@@ -107,6 +117,8 @@ A Grunt Heavy unit consists of 1 Grunt Heavy.
 | Grunt Heavy              |  4  |  5" |  4+ |  5+ |  4  |  1  |                   | 8      |
 
 A Grunt Heavy is armed with a Fuel Rod Gun.
+
+---
 
 ### Hunter
 
@@ -122,19 +134,15 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 
 **Ability - Hunter Charge (2 Command Points)**: This model may move up to 10 inches in a straight line if doing so would move it into contact with, or over, an enemy models base. The model stops if it comes into contact with any terrain objects. It may move through any friendly or enemy models but cannot finish its move with its base overlapping another model. After moving make a free Attack Action against every model that this model moved over with the Hunter Combat Shield as though it was within 1 inch of each target.
 
+---
 
-
-
-
-## Summary
-
-### Upgrades
+## Upgrades
 
 | Upgrade | Effect | Points |
 | :------ | :----- | :----- |
 | Point Defence Gauntlet | This model has a +3 modifier to Defence Rolls when the attack originates in the models front arc. | 4 |
 
-### Weapons
+## Weapons
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                                   | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :---------------------------------------- | :----- |
@@ -154,4 +162,4 @@ A Hunter is equipped with an Assault Cannon and a Hunter Combat Shield.
 | Plasma Rifle         | 18" |  5  |  4  |  0  | Plasma                                    | 0      |
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                      | 0      |
 
-* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
+_\* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker._

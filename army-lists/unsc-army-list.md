@@ -1,8 +1,8 @@
-#### Halo: Breakpoint
-
 # UNSC Army List
 
-> The United Nations Space Command (UNSC) is the military, exploratory, training, and scientific agency of the Unified Earth Government.
+---
+
+The United Nations Space Command (UNSC) is the military, exploratory, training, and scientific agency of the Unified Earth Government.
 
 ## Standard Units
 
@@ -17,6 +17,7 @@ A UNSC Marines Unit consists of 3-5 Marines. One Marine may be upgraded to a Mar
 
 A Marine is equipped with an MA5 Assault Rifle and M9 Grenades and a Marine Sergeant is equipped with an M6 Pistol and M9 Grenades. A Marine may replace its MA5 Assault Rifle with either an M90 Shotgun or a BR55 Service Rifle.
 
+---
 
 ### ODST Combat Team
 
@@ -31,6 +32,7 @@ An ODST and ODST Sergeant is equipped with an M7 SMG and M9 Grenades.
 
 Any ODST may replace its M7 SMG with one of the following: M6 Pistol, M90 Shotgun, BR55 Service Rifle, or an MA5 Assault Rifle. One ODST may replace its M7 SMG with one of the following: M41 Rocket Launcher or SRS99 Sniper Rifle.
 
+---
 
 ### ODST Air Assault Team
 
@@ -45,12 +47,9 @@ An ODST and ODST Sergeant is equipped with a MA5 Assault Rifle and M9 Grenades.
 
 Any ODST may replace its MA5 Assault Rifle with any of the following: an M6 Pistol, M90 Shotgun, BR55 Service Rifle, or an M7 SMG.
 
-
-
-
+---
 
 ## Specialist Units
-
 
 ### Spartan II / IV
 
@@ -64,6 +63,7 @@ A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and 
 
 A Spartan may replace its MA5 Assault Rifle with any of the following: M90 Shotgun, BR55 Service Rifle, M7 SMG, M41 Rocket Launcher, or SRS99 Sniper Rifle. A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with Twin M7 SMGs.
 
+---
 
 ### Spartan III
 
@@ -77,6 +77,7 @@ A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and 
 
 A Spartan may replace its MA5 Assault Rifle with any of the following: M90 Shotgun, BR55 Service Rifle, M7 SMG, M41 Rocket Launcher, or SRS99 Sniper Rifle.
 
+---
 
 ### UNSC Marine Weapons Team
 
@@ -88,6 +89,7 @@ A UNSC Marine Weapons Team Consists of 2 Marines.
 
 One Marine is equipped with an M6 Pistol and M9 Grenades, the other Marine must choose either a M41 Rocket Launcher, SRS99 Sniper Rifle, or M247 Machine Gun.
 
+---
 
 ### Warthog
 
@@ -101,14 +103,9 @@ A Warthog unit consists of 1 Warthog.
 
 A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 
+---
 
-
-
-
-## Summary
-
-
-### Weapons
+## Weapons
 
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------------ | :----- |
@@ -127,4 +124,4 @@ A Warthog is equipped with either a Vulcan "Chaingun" or an M79 MRLS.
 | Vehicle Ram          | 1"  |  *  |  4  |  1  | Assault, Rending (2)                        | 0      |
 | Vulcan "Chaingun"    | 18" |  4  |  4  |  2  | Rapid Fire (2), Rending (1)                 | 10     |
 
-* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
+_\* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker._
