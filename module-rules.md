@@ -28,3 +28,8 @@ The following special rules are used in Halo Firefight games:
 | :------------------- | :----- |
 | Deployable | This weapon cannot be used if the unit has performed a Move action this round. If this weapon is used, the unit cannot make a Move action this round. |
 | Plasma | The Shields special rule does not apply against attacks against weapons with this rule. |
+
+<figure markdown>
+  ![A Covenant Elite Minor](../img/halo-elite.jpg){ width="800" }
+  <figcaption>A Covenant Elite Minor with Energy Sword</figcaption>
+</figure>
